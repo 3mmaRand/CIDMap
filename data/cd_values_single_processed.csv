@@ -1,0 +1,2038 @@
+ref_number,Phase,patient,notes,marker,value
+6,I,patient 1,FC,Viability,NA
+6,I,patient 2,FC,Viability,NA
+6,I,patient 3,FC,Viability,NA
+6,I,patient 4,FC,Viability,NA
+12,I/IIa,patient 1,IHC,Viability,97.8
+12,I/IIa,patient 2,IHC,Viability,98.8
+12,I/IIa,patient 3,IHC,Viability,99.1
+12,I/IIa,patient 4,IHC,Viability,99.5
+12,I/IIa,patient 5,IHC,Viability,99
+14,I,p3 cells,FC,Viability,97.75
+14,I,p3 cells,FC,Viability,97.75
+14,I,p4 cells,FC,Viability,97.78
+14,I,p4 cells,FC,Viability,97.78
+14,I,p4 cells,FC,Viability,97.78
+25,I,patient 1,NA,Viability,99.7
+25,I,patient 2,NA,Viability,95.6
+25,I,patient3,NA,Viability,95
+25,I,patient 4,NA,Viability,94.5
+25,I,patient 5,NA,Viability,97.1
+25,I,patient  6,NA,Viability,90
+25,I,patient 7,NA,Viability,90.8
+25,I,patient 8,NA,Viability,100
+25,I,patient 9,NA,Viability,93.2
+25,I,patient 10,NA,Viability,92.8
+25,I,patient 11,NA,Viability,94.9
+25,I,patient 12,NA,Viability,90
+25,I,patient 13,NA,Viability,94
+25,I,patient 14,NA,Viability,95.1
+25,I,patient 15,NA,Viability,98
+25,I,patient 16,NA,Viability,98.9
+25,I,patient 17,NA,Viability,99.6
+25,I,patient 18,NA,Viability,98.9
+29,I,patient 1 tx 1,NA,Viability,NA
+29,I,patient 1 tx 2,NA,Viability,NA
+29,I,patient 2 tx 1,NA,Viability,NA
+29,I,patient 2 tx 2,NA,Viability,NA
+29,I,patient 3 tx 1,NA,Viability,NA
+29,I,patient 3 tx 2,NA,Viability,NA
+29,I,patient 4 tx 1,NA,Viability,NA
+29,I,patient 4 tx 2,NA,Viability,NA
+29,I,patient 5 tx 1,NA,Viability,NA
+29,I,patient 5 tx 2,NA,Viability,NA
+29,I,patient 6 tx 1,NA,Viability,NA
+29,I,patient 6 tx 2,NA,Viability,NA
+29,I,patient 7 tx 1,NA,Viability,NA
+29,I,patient 7 tx 2,NA,Viability,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,Viability,NA
+49,I,patient 1,NA,Viability,NA
+49,I,patient 2,NA,Viability,NA
+49,I,patient 3,NA,Viability,NA
+49,I,patient 4,NA,Viability,NA
+49,I,patient 5,NA,Viability,NA
+49,I,patient 6,NA,Viability,NA
+49,I,patient 7,NA,Viability,NA
+49,I,patient 8,NA,Viability,NA
+49,I,patient 9,NA,Viability,NA
+49,I,patient 10,NA,Viability,NA
+49,I,patient 11,NA,Viability,NA
+49,I,patient 12,NA,Viability,NA
+53,II,patient 1,NA,Viability,NA
+53,II,patient 2,NA,Viability,NA
+53,II,patient 3,NA,Viability,NA
+53,II,patient 4,NA,Viability,NA
+53,II,patient 5,NA,Viability,NA
+53,II,patient 6,NA,Viability,NA
+53,II,patient 7,NA,Viability,NA
+53,II,patient 8,NA,Viability,NA
+53,II,patient 9,NA,Viability,NA
+53,II,patient 10,NA,Viability,NA
+53,II,patient 11,NA,Viability,NA
+53,II,patient 12,NA,Viability,NA
+53,II,patient 13,NA,Viability,NA
+53,II,patient 14,NA,Viability,NA
+53,II,patient 15,NA,Viability,NA
+53,II,patient 16,NA,Viability,NA
+53,II,patient 17,NA,Viability,NA
+53,II,patient 18,NA,Viability,NA
+55,IIa,patient 1,NA,Viability,NA
+55,IIa,patient 2,NA,Viability,NA
+55,IIa,patient 3,NA,Viability,NA
+55,IIa,patient 4,NA,Viability,NA
+55,IIa,patient 5,NA,Viability,NA
+55,IIa,patient 6,NA,Viability,NA
+75,I,patient 1,NA,Viability,NA
+75,I,patient 2,NA,Viability,NA
+75,I,patient 3,NA,Viability,NA
+75,I,patient 4,NA,Viability,NA
+75,I,patient 5,NA,Viability,NA
+75,I,patient 6,NA,Viability,NA
+75,I,patient 7,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+75,I,NA,NA,Viability,NA
+6,I,patient 1,FC,CD73,98.5
+6,I,patient 2,FC,CD73,99.27
+6,I,patient 3,FC,CD73,98.2
+6,I,patient 4,FC,CD73,99.45
+12,I/IIa,patient 1,IHC,CD73,NA
+12,I/IIa,patient 2,IHC,CD73,NA
+12,I/IIa,patient 3,IHC,CD73,NA
+12,I/IIa,patient 4,IHC,CD73,NA
+12,I/IIa,patient 5,IHC,CD73,NA
+14,I,p3 cells,FC,CD73,90.9
+14,I,p3 cells,FC,CD73,90.9
+14,I,p4 cells,FC,CD73,94.6
+14,I,p4 cells,FC,CD73,94.6
+14,I,p4 cells,FC,CD73,94.6
+25,I,patient 1,NA,CD73,99.9
+25,I,patient 2,NA,CD73,100
+25,I,patient3,NA,CD73,99
+25,I,patient 4,NA,CD73,99.9
+25,I,patient 5,NA,CD73,100
+25,I,patient  6,NA,CD73,100
+25,I,patient 7,NA,CD73,100
+25,I,patient 8,NA,CD73,99.6
+25,I,patient 9,NA,CD73,99.6
+25,I,patient 10,NA,CD73,99.4
+25,I,patient 11,NA,CD73,99.6
+25,I,patient 12,NA,CD73,99.8
+25,I,patient 13,NA,CD73,99.7
+25,I,patient 14,NA,CD73,100
+25,I,patient 15,NA,CD73,99.9
+25,I,patient 16,NA,CD73,99.8
+25,I,patient 17,NA,CD73,100
+25,I,patient 18,NA,CD73,99.8
+29,I,patient 1 tx 1,NA,CD73,99.833
+29,I,patient 1 tx 2,NA,CD73,99.9
+29,I,patient 2 tx 1,NA,CD73,99.533
+29,I,patient 2 tx 2,NA,CD73,100
+29,I,patient 3 tx 1,NA,CD73,99.866
+29,I,patient 3 tx 2,NA,CD73,99.2
+29,I,patient 4 tx 1,NA,CD73,99.566
+29,I,patient 4 tx 2,NA,CD73,99.866
+29,I,patient 5 tx 1,NA,CD73,99.8
+29,I,patient 5 tx 2,NA,CD73,99.9
+29,I,patient 6 tx 1,NA,CD73,99.966
+29,I,patient 6 tx 2,NA,CD73,99.866
+29,I,patient 7 tx 1,NA,CD73,99.6
+29,I,patient 7 tx 2,NA,CD73,99.933
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD73,99.04
+49,I,patient 1,NA,CD73,NA
+49,I,patient 2,NA,CD73,NA
+49,I,patient 3,NA,CD73,NA
+49,I,patient 4,NA,CD73,NA
+49,I,patient 5,NA,CD73,NA
+49,I,patient 6,NA,CD73,NA
+49,I,patient 7,NA,CD73,NA
+49,I,patient 8,NA,CD73,NA
+49,I,patient 9,NA,CD73,NA
+49,I,patient 10,NA,CD73,NA
+49,I,patient 11,NA,CD73,NA
+49,I,patient 12,NA,CD73,NA
+53,II,patient 1,NA,CD73,99.13
+53,II,patient 2,NA,CD73,98.93
+53,II,patient 3,NA,CD73,96.59
+53,II,patient 4,NA,CD73,97.9
+53,II,patient 5,NA,CD73,96.33
+53,II,patient 6,NA,CD73,99.12
+53,II,patient 7,NA,CD73,87.44
+53,II,patient 8,NA,CD73,98.61
+53,II,patient 9,NA,CD73,94.78
+53,II,patient 10,NA,CD73,97.39
+53,II,patient 11,NA,CD73,95.87
+53,II,patient 12,NA,CD73,95.59
+53,II,patient 13,NA,CD73,92.83
+53,II,patient 14,NA,CD73,94.73
+53,II,patient 15,NA,CD73,94.28
+53,II,patient 16,NA,CD73,92.97
+53,II,patient 17,NA,CD73,92.25
+53,II,patient 18,NA,CD73,87.56
+55,IIa,patient 1,NA,CD73,NA
+55,IIa,patient 2,NA,CD73,NA
+55,IIa,patient 3,NA,CD73,NA
+55,IIa,patient 4,NA,CD73,NA
+55,IIa,patient 5,NA,CD73,NA
+55,IIa,patient 6,NA,CD73,NA
+75,I,patient 1,NA,CD73,61.6
+75,I,patient 2,NA,CD73,66.8
+75,I,patient 3,NA,CD73,56.3
+75,I,patient 4,NA,CD73,66.2
+75,I,patient 5,NA,CD73,55.2
+75,I,patient 6,NA,CD73,78.9
+75,I,patient 7,NA,CD73,76.6
+75,I,NA,NA,CD73,68.7
+75,I,NA,NA,CD73,57.5
+75,I,NA,NA,CD73,66.9
+75,I,NA,NA,CD73,77.9
+75,I,NA,NA,CD73,50.9
+75,I,NA,NA,CD73,79.1
+75,I,NA,NA,CD73,75.8
+6,I,patient 1,FC,CD90,99.8
+6,I,patient 2,FC,CD90,99.33
+6,I,patient 3,FC,CD90,99.7
+6,I,patient 4,FC,CD90,98.58
+12,I/IIa,patient 1,IHC,CD90,94
+12,I/IIa,patient 2,IHC,CD90,94
+12,I/IIa,patient 3,IHC,CD90,90.5
+12,I/IIa,patient 4,IHC,CD90,82.5
+12,I/IIa,patient 5,IHC,CD90,85.5
+14,I,p3 cells,FC,CD90,94.6
+14,I,p3 cells,FC,CD90,94.6
+14,I,p4 cells,FC,CD90,98.9
+14,I,p4 cells,FC,CD90,98.9
+14,I,p4 cells,FC,CD90,98.9
+25,I,patient 1,NA,CD90,100
+25,I,patient 2,NA,CD90,100
+25,I,patient3,NA,CD90,100
+25,I,patient 4,NA,CD90,100
+25,I,patient 5,NA,CD90,100
+25,I,patient  6,NA,CD90,100
+25,I,patient 7,NA,CD90,100
+25,I,patient 8,NA,CD90,99.5
+25,I,patient 9,NA,CD90,99.7
+25,I,patient 10,NA,CD90,99.5
+25,I,patient 11,NA,CD90,99.6
+25,I,patient 12,NA,CD90,99.8
+25,I,patient 13,NA,CD90,98.8
+25,I,patient 14,NA,CD90,100
+25,I,patient 15,NA,CD90,99.9
+25,I,patient 16,NA,CD90,99.8
+25,I,patient 17,NA,CD90,99.8
+25,I,patient 18,NA,CD90,99.1
+29,I,patient 1 tx 1,NA,CD90,NA
+29,I,patient 1 tx 2,NA,CD90,NA
+29,I,patient 2 tx 1,NA,CD90,NA
+29,I,patient 2 tx 2,NA,CD90,NA
+29,I,patient 3 tx 1,NA,CD90,NA
+29,I,patient 3 tx 2,NA,CD90,NA
+29,I,patient 4 tx 1,NA,CD90,NA
+29,I,patient 4 tx 2,NA,CD90,NA
+29,I,patient 5 tx 1,NA,CD90,NA
+29,I,patient 5 tx 2,NA,CD90,NA
+29,I,patient 6 tx 1,NA,CD90,NA
+29,I,patient 6 tx 2,NA,CD90,NA
+29,I,patient 7 tx 1,NA,CD90,NA
+29,I,patient 7 tx 2,NA,CD90,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD90,94
+49,I,patient 1,NA,CD90,NA
+49,I,patient 2,NA,CD90,NA
+49,I,patient 3,NA,CD90,NA
+49,I,patient 4,NA,CD90,NA
+49,I,patient 5,NA,CD90,NA
+49,I,patient 6,NA,CD90,NA
+49,I,patient 7,NA,CD90,NA
+49,I,patient 8,NA,CD90,NA
+49,I,patient 9,NA,CD90,NA
+49,I,patient 10,NA,CD90,NA
+49,I,patient 11,NA,CD90,NA
+49,I,patient 12,NA,CD90,NA
+53,II,patient 1,NA,CD90,99.28
+53,II,patient 2,NA,CD90,99.09
+53,II,patient 3,NA,CD90,97.75
+53,II,patient 4,NA,CD90,97.75
+53,II,patient 5,NA,CD90,97.63
+53,II,patient 6,NA,CD90,99.01
+53,II,patient 7,NA,CD90,98.01
+53,II,patient 8,NA,CD90,99.31
+53,II,patient 9,NA,CD90,98.34
+53,II,patient 10,NA,CD90,98.37
+53,II,patient 11,NA,CD90,96.29
+53,II,patient 12,NA,CD90,97.11
+53,II,patient 13,NA,CD90,93.49
+53,II,patient 14,NA,CD90,94.75
+53,II,patient 15,NA,CD90,93.09
+53,II,patient 16,NA,CD90,92.8
+53,II,patient 17,NA,CD90,94.14
+53,II,patient 18,NA,CD90,89.199
+55,IIa,patient 1,NA,CD90,NA
+55,IIa,patient 2,NA,CD90,NA
+55,IIa,patient 3,NA,CD90,NA
+55,IIa,patient 4,NA,CD90,NA
+55,IIa,patient 5,NA,CD90,NA
+55,IIa,patient 6,NA,CD90,NA
+75,I,patient 1,NA,CD90,60.1
+75,I,patient 2,NA,CD90,45.3
+75,I,patient 3,NA,CD90,57.6
+75,I,patient 4,NA,CD90,61.8
+75,I,patient 5,NA,CD90,45.7
+75,I,patient 6,NA,CD90,69.8
+75,I,patient 7,NA,CD90,68.8
+75,I,NA,NA,CD90,59.9
+75,I,NA,NA,CD90,64.1
+75,I,NA,NA,CD90,52.8
+75,I,NA,NA,CD90,59.6
+75,I,NA,NA,CD90,59.9
+75,I,NA,NA,CD90,61.7
+75,I,NA,NA,CD90,65.5
+6,I,patient 1,FC,CD105,98.1
+6,I,patient 2,FC,CD105,99.67
+6,I,patient 3,FC,CD105,99.1
+6,I,patient 4,FC,CD105,98.57
+12,I/IIa,patient 1,IHC,CD105,98
+12,I/IIa,patient 2,IHC,CD105,96
+12,I/IIa,patient 3,IHC,CD105,98.5
+12,I/IIa,patient 4,IHC,CD105,NA
+12,I/IIa,patient 5,IHC,CD105,98
+14,I,p3 cells,FC,CD105,99
+14,I,p3 cells,FC,CD105,92.3
+14,I,p4 cells,FC,CD105,97.2
+14,I,p4 cells,FC,CD105,97.2
+14,I,p4 cells,FC,CD105,97.2
+25,I,patient 1,NA,CD105,99.9
+25,I,patient 2,NA,CD105,100
+25,I,patient3,NA,CD105,100
+25,I,patient 4,NA,CD105,100
+25,I,patient 5,NA,CD105,100
+25,I,patient  6,NA,CD105,100
+25,I,patient 7,NA,CD105,100
+25,I,patient 8,NA,CD105,99.5
+25,I,patient 9,NA,CD105,99.7
+25,I,patient 10,NA,CD105,99.5
+25,I,patient 11,NA,CD105,99.6
+25,I,patient 12,NA,CD105,99.9
+25,I,patient 13,NA,CD105,99.4
+25,I,patient 14,NA,CD105,99.9
+25,I,patient 15,NA,CD105,99.9
+25,I,patient 16,NA,CD105,99.9
+25,I,patient 17,NA,CD105,99.9
+25,I,patient 18,NA,CD105,99.8
+29,I,patient 1 tx 1,NA,CD105,99.5
+29,I,patient 1 tx 2,NA,CD105,100
+29,I,patient 2 tx 1,NA,CD105,99.766
+29,I,patient 2 tx 2,NA,CD105,99.966
+29,I,patient 3 tx 1,NA,CD105,99.966
+29,I,patient 3 tx 2,NA,CD105,100
+29,I,patient 4 tx 1,NA,CD105,99.966
+29,I,patient 4 tx 2,NA,CD105,100
+29,I,patient 5 tx 1,NA,CD105,99.933
+29,I,patient 5 tx 2,NA,CD105,100
+29,I,patient 6 tx 1,NA,CD105,100
+29,I,patient 6 tx 2,NA,CD105,100
+29,I,patient 7 tx 1,NA,CD105,100
+29,I,patient 7 tx 2,NA,CD105,100
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD105,NA
+49,I,patient 1,NA,CD105,100
+49,I,patient 2,NA,CD105,100
+49,I,patient 3,NA,CD105,99.9
+49,I,patient 4,NA,CD105,99.9
+49,I,patient 5,NA,CD105,99.8
+49,I,patient 6,NA,CD105,98.6
+49,I,patient 7,NA,CD105,99.8
+49,I,patient 8,NA,CD105,99.9
+49,I,patient 9,NA,CD105,99.8
+49,I,patient 10,NA,CD105,99.9
+49,I,patient 11,NA,CD105,100
+49,I,patient 12,NA,CD105,100
+53,II,patient 1,NA,CD105,NA
+53,II,patient 2,NA,CD105,NA
+53,II,patient 3,NA,CD105,NA
+53,II,patient 4,NA,CD105,NA
+53,II,patient 5,NA,CD105,NA
+53,II,patient 6,NA,CD105,NA
+53,II,patient 7,NA,CD105,NA
+53,II,patient 8,NA,CD105,NA
+53,II,patient 9,NA,CD105,NA
+53,II,patient 10,NA,CD105,NA
+53,II,patient 11,NA,CD105,NA
+53,II,patient 12,NA,CD105,NA
+53,II,patient 13,NA,CD105,NA
+53,II,patient 14,NA,CD105,NA
+53,II,patient 15,NA,CD105,NA
+53,II,patient 16,NA,CD105,NA
+53,II,patient 17,NA,CD105,NA
+53,II,patient 18,NA,CD105,NA
+55,IIa,patient 1,NA,CD105,NA
+55,IIa,patient 2,NA,CD105,NA
+55,IIa,patient 3,NA,CD105,NA
+55,IIa,patient 4,NA,CD105,NA
+55,IIa,patient 5,NA,CD105,NA
+55,IIa,patient 6,NA,CD105,NA
+75,I,patient 1,NA,CD105,49.2
+75,I,patient 2,NA,CD105,53.1
+75,I,patient 3,NA,CD105,47.7
+75,I,patient 4,NA,CD105,50.6
+75,I,patient 5,NA,CD105,48.7
+75,I,patient 6,NA,CD105,54.5
+75,I,patient 7,NA,CD105,49.9
+75,I,NA,NA,CD105,51.4
+75,I,NA,NA,CD105,49.4
+75,I,NA,NA,CD105,45.1
+75,I,NA,NA,CD105,48.8
+75,I,NA,NA,CD105,52.2
+75,I,NA,NA,CD105,49.8
+75,I,NA,NA,CD105,51.8
+6,I,patient 1,FC,CD106,NA
+6,I,patient 2,FC,CD106,NA
+6,I,patient 3,FC,CD106,NA
+6,I,patient 4,FC,CD106,NA
+12,I/IIa,patient 1,IHC,CD106,NA
+12,I/IIa,patient 2,IHC,CD106,NA
+12,I/IIa,patient 3,IHC,CD106,NA
+12,I/IIa,patient 4,IHC,CD106,NA
+12,I/IIa,patient 5,IHC,CD106,NA
+14,I,p3 cells,FC,CD106,NA
+14,I,p3 cells,FC,CD106,NA
+14,I,p4 cells,FC,CD106,NA
+14,I,p4 cells,FC,CD106,NA
+14,I,p4 cells,FC,CD106,NA
+25,I,patient 1,NA,CD106,NA
+25,I,patient 2,NA,CD106,NA
+25,I,patient3,NA,CD106,NA
+25,I,patient 4,NA,CD106,NA
+25,I,patient 5,NA,CD106,NA
+25,I,patient  6,NA,CD106,NA
+25,I,patient 7,NA,CD106,NA
+25,I,patient 8,NA,CD106,NA
+25,I,patient 9,NA,CD106,NA
+25,I,patient 10,NA,CD106,NA
+25,I,patient 11,NA,CD106,NA
+25,I,patient 12,NA,CD106,NA
+25,I,patient 13,NA,CD106,NA
+25,I,patient 14,NA,CD106,NA
+25,I,patient 15,NA,CD106,NA
+25,I,patient 16,NA,CD106,NA
+25,I,patient 17,NA,CD106,NA
+25,I,patient 18,NA,CD106,NA
+29,I,patient 1 tx 1,NA,CD106,NA
+29,I,patient 1 tx 2,NA,CD106,NA
+29,I,patient 2 tx 1,NA,CD106,NA
+29,I,patient 2 tx 2,NA,CD106,NA
+29,I,patient 3 tx 1,NA,CD106,NA
+29,I,patient 3 tx 2,NA,CD106,NA
+29,I,patient 4 tx 1,NA,CD106,NA
+29,I,patient 4 tx 2,NA,CD106,NA
+29,I,patient 5 tx 1,NA,CD106,NA
+29,I,patient 5 tx 2,NA,CD106,NA
+29,I,patient 6 tx 1,NA,CD106,NA
+29,I,patient 6 tx 2,NA,CD106,NA
+29,I,patient 7 tx 1,NA,CD106,NA
+29,I,patient 7 tx 2,NA,CD106,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD106,NA
+49,I,patient 1,NA,CD106,NA
+49,I,patient 2,NA,CD106,NA
+49,I,patient 3,NA,CD106,NA
+49,I,patient 4,NA,CD106,NA
+49,I,patient 5,NA,CD106,NA
+49,I,patient 6,NA,CD106,NA
+49,I,patient 7,NA,CD106,NA
+49,I,patient 8,NA,CD106,NA
+49,I,patient 9,NA,CD106,NA
+49,I,patient 10,NA,CD106,NA
+49,I,patient 11,NA,CD106,NA
+49,I,patient 12,NA,CD106,NA
+53,II,patient 1,NA,CD106,NA
+53,II,patient 2,NA,CD106,NA
+53,II,patient 3,NA,CD106,NA
+53,II,patient 4,NA,CD106,NA
+53,II,patient 5,NA,CD106,NA
+53,II,patient 6,NA,CD106,NA
+53,II,patient 7,NA,CD106,NA
+53,II,patient 8,NA,CD106,NA
+53,II,patient 9,NA,CD106,NA
+53,II,patient 10,NA,CD106,NA
+53,II,patient 11,NA,CD106,NA
+53,II,patient 12,NA,CD106,NA
+53,II,patient 13,NA,CD106,NA
+53,II,patient 14,NA,CD106,NA
+53,II,patient 15,NA,CD106,NA
+53,II,patient 16,NA,CD106,NA
+53,II,patient 17,NA,CD106,NA
+53,II,patient 18,NA,CD106,NA
+55,IIa,patient 1,NA,CD106,NA
+55,IIa,patient 2,NA,CD106,NA
+55,IIa,patient 3,NA,CD106,NA
+55,IIa,patient 4,NA,CD106,NA
+55,IIa,patient 5,NA,CD106,NA
+55,IIa,patient 6,NA,CD106,NA
+75,I,patient 1,NA,CD106,NA
+75,I,patient 2,NA,CD106,NA
+75,I,patient 3,NA,CD106,NA
+75,I,patient 4,NA,CD106,NA
+75,I,patient 5,NA,CD106,NA
+75,I,patient 6,NA,CD106,NA
+75,I,patient 7,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+75,I,NA,NA,CD106,NA
+6,I,patient 1,FC,CD166,NA
+6,I,patient 2,FC,CD166,NA
+6,I,patient 3,FC,CD166,NA
+6,I,patient 4,FC,CD166,NA
+12,I/IIa,patient 1,IHC,CD166,NA
+12,I/IIa,patient 2,IHC,CD166,NA
+12,I/IIa,patient 3,IHC,CD166,NA
+12,I/IIa,patient 4,IHC,CD166,NA
+12,I/IIa,patient 5,IHC,CD166,NA
+14,I,p3 cells,FC,CD166,87.7
+14,I,p3 cells,FC,CD166,87.7
+14,I,p4 cells,FC,CD166,92.5
+14,I,p4 cells,FC,CD166,95.2
+14,I,p4 cells,FC,CD166,95.2
+25,I,patient 1,NA,CD166,NA
+25,I,patient 2,NA,CD166,NA
+25,I,patient3,NA,CD166,NA
+25,I,patient 4,NA,CD166,NA
+25,I,patient 5,NA,CD166,NA
+25,I,patient  6,NA,CD166,NA
+25,I,patient 7,NA,CD166,NA
+25,I,patient 8,NA,CD166,NA
+25,I,patient 9,NA,CD166,NA
+25,I,patient 10,NA,CD166,NA
+25,I,patient 11,NA,CD166,NA
+25,I,patient 12,NA,CD166,NA
+25,I,patient 13,NA,CD166,NA
+25,I,patient 14,NA,CD166,NA
+25,I,patient 15,NA,CD166,NA
+25,I,patient 16,NA,CD166,NA
+25,I,patient 17,NA,CD166,NA
+25,I,patient 18,NA,CD166,NA
+29,I,patient 1 tx 1,NA,CD166,NA
+29,I,patient 1 tx 2,NA,CD166,NA
+29,I,patient 2 tx 1,NA,CD166,NA
+29,I,patient 2 tx 2,NA,CD166,NA
+29,I,patient 3 tx 1,NA,CD166,NA
+29,I,patient 3 tx 2,NA,CD166,NA
+29,I,patient 4 tx 1,NA,CD166,NA
+29,I,patient 4 tx 2,NA,CD166,NA
+29,I,patient 5 tx 1,NA,CD166,NA
+29,I,patient 5 tx 2,NA,CD166,NA
+29,I,patient 6 tx 1,NA,CD166,NA
+29,I,patient 6 tx 2,NA,CD166,NA
+29,I,patient 7 tx 1,NA,CD166,NA
+29,I,patient 7 tx 2,NA,CD166,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD166,98.38
+49,I,patient 1,NA,CD166,NA
+49,I,patient 2,NA,CD166,NA
+49,I,patient 3,NA,CD166,NA
+49,I,patient 4,NA,CD166,NA
+49,I,patient 5,NA,CD166,NA
+49,I,patient 6,NA,CD166,NA
+49,I,patient 7,NA,CD166,NA
+49,I,patient 8,NA,CD166,NA
+49,I,patient 9,NA,CD166,NA
+49,I,patient 10,NA,CD166,NA
+49,I,patient 11,NA,CD166,NA
+49,I,patient 12,NA,CD166,NA
+53,II,patient 1,NA,CD166,NA
+53,II,patient 2,NA,CD166,NA
+53,II,patient 3,NA,CD166,NA
+53,II,patient 4,NA,CD166,NA
+53,II,patient 5,NA,CD166,NA
+53,II,patient 6,NA,CD166,NA
+53,II,patient 7,NA,CD166,NA
+53,II,patient 8,NA,CD166,NA
+53,II,patient 9,NA,CD166,NA
+53,II,patient 10,NA,CD166,NA
+53,II,patient 11,NA,CD166,NA
+53,II,patient 12,NA,CD166,NA
+53,II,patient 13,NA,CD166,NA
+53,II,patient 14,NA,CD166,NA
+53,II,patient 15,NA,CD166,NA
+53,II,patient 16,NA,CD166,NA
+53,II,patient 17,NA,CD166,NA
+53,II,patient 18,NA,CD166,NA
+55,IIa,patient 1,NA,CD166,NA
+55,IIa,patient 2,NA,CD166,NA
+55,IIa,patient 3,NA,CD166,NA
+55,IIa,patient 4,NA,CD166,NA
+55,IIa,patient 5,NA,CD166,NA
+55,IIa,patient 6,NA,CD166,NA
+75,I,patient 1,NA,CD166,NA
+75,I,patient 2,NA,CD166,NA
+75,I,patient 3,NA,CD166,NA
+75,I,patient 4,NA,CD166,NA
+75,I,patient 5,NA,CD166,NA
+75,I,patient 6,NA,CD166,NA
+75,I,patient 7,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+75,I,NA,NA,CD166,NA
+6,I,patient 1,FC,CD3,0.01
+6,I,patient 2,FC,CD3,0.2
+6,I,patient 3,FC,CD3,0.01
+6,I,patient 4,FC,CD3,0.05
+12,I/IIa,patient 1,IHC,CD3,NA
+12,I/IIa,patient 2,IHC,CD3,NA
+12,I/IIa,patient 3,IHC,CD3,NA
+12,I/IIa,patient 4,IHC,CD3,NA
+12,I/IIa,patient 5,IHC,CD3,NA
+14,I,p3 cells,FC,CD3,NA
+14,I,p3 cells,FC,CD3,NA
+14,I,p4 cells,FC,CD3,NA
+14,I,p4 cells,FC,CD3,NA
+14,I,p4 cells,FC,CD3,NA
+25,I,patient 1,NA,CD3,NA
+25,I,patient 2,NA,CD3,NA
+25,I,patient3,NA,CD3,NA
+25,I,patient 4,NA,CD3,NA
+25,I,patient 5,NA,CD3,NA
+25,I,patient  6,NA,CD3,NA
+25,I,patient 7,NA,CD3,NA
+25,I,patient 8,NA,CD3,NA
+25,I,patient 9,NA,CD3,NA
+25,I,patient 10,NA,CD3,NA
+25,I,patient 11,NA,CD3,NA
+25,I,patient 12,NA,CD3,NA
+25,I,patient 13,NA,CD3,NA
+25,I,patient 14,NA,CD3,NA
+25,I,patient 15,NA,CD3,NA
+25,I,patient 16,NA,CD3,NA
+25,I,patient 17,NA,CD3,NA
+25,I,patient 18,NA,CD3,NA
+29,I,patient 1 tx 1,NA,CD3,NA
+29,I,patient 1 tx 2,NA,CD3,NA
+29,I,patient 2 tx 1,NA,CD3,NA
+29,I,patient 2 tx 2,NA,CD3,NA
+29,I,patient 3 tx 1,NA,CD3,NA
+29,I,patient 3 tx 2,NA,CD3,NA
+29,I,patient 4 tx 1,NA,CD3,NA
+29,I,patient 4 tx 2,NA,CD3,NA
+29,I,patient 5 tx 1,NA,CD3,NA
+29,I,patient 5 tx 2,NA,CD3,NA
+29,I,patient 6 tx 1,NA,CD3,NA
+29,I,patient 6 tx 2,NA,CD3,NA
+29,I,patient 7 tx 1,NA,CD3,NA
+29,I,patient 7 tx 2,NA,CD3,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD3,NA
+49,I,patient 1,NA,CD3,NA
+49,I,patient 2,NA,CD3,NA
+49,I,patient 3,NA,CD3,NA
+49,I,patient 4,NA,CD3,NA
+49,I,patient 5,NA,CD3,NA
+49,I,patient 6,NA,CD3,NA
+49,I,patient 7,NA,CD3,NA
+49,I,patient 8,NA,CD3,NA
+49,I,patient 9,NA,CD3,NA
+49,I,patient 10,NA,CD3,NA
+49,I,patient 11,NA,CD3,NA
+49,I,patient 12,NA,CD3,NA
+53,II,patient 1,NA,CD3,NA
+53,II,patient 2,NA,CD3,NA
+53,II,patient 3,NA,CD3,NA
+53,II,patient 4,NA,CD3,NA
+53,II,patient 5,NA,CD3,NA
+53,II,patient 6,NA,CD3,NA
+53,II,patient 7,NA,CD3,NA
+53,II,patient 8,NA,CD3,NA
+53,II,patient 9,NA,CD3,NA
+53,II,patient 10,NA,CD3,NA
+53,II,patient 11,NA,CD3,NA
+53,II,patient 12,NA,CD3,NA
+53,II,patient 13,NA,CD3,NA
+53,II,patient 14,NA,CD3,NA
+53,II,patient 15,NA,CD3,NA
+53,II,patient 16,NA,CD3,NA
+53,II,patient 17,NA,CD3,NA
+53,II,patient 18,NA,CD3,NA
+55,IIa,patient 1,NA,CD3,NA
+55,IIa,patient 2,NA,CD3,NA
+55,IIa,patient 3,NA,CD3,NA
+55,IIa,patient 4,NA,CD3,NA
+55,IIa,patient 5,NA,CD3,NA
+55,IIa,patient 6,NA,CD3,NA
+75,I,patient 1,NA,CD3,NA
+75,I,patient 2,NA,CD3,NA
+75,I,patient 3,NA,CD3,NA
+75,I,patient 4,NA,CD3,NA
+75,I,patient 5,NA,CD3,NA
+75,I,patient 6,NA,CD3,NA
+75,I,patient 7,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+75,I,NA,NA,CD3,NA
+6,I,patient 1,FC,CD29,NA
+6,I,patient 2,FC,CD29,NA
+6,I,patient 3,FC,CD29,NA
+6,I,patient 4,FC,CD29,NA
+12,I/IIa,patient 1,IHC,CD29,NA
+12,I/IIa,patient 2,IHC,CD29,NA
+12,I/IIa,patient 3,IHC,CD29,NA
+12,I/IIa,patient 4,IHC,CD29,NA
+12,I/IIa,patient 5,IHC,CD29,NA
+14,I,p3 cells,FC,CD29,92.5
+14,I,p3 cells,FC,CD29,92.5
+14,I,p4 cells,FC,CD29,95.5
+14,I,p4 cells,FC,CD29,95.5
+14,I,p4 cells,FC,CD29,95.5
+25,I,patient 1,NA,CD29,NA
+25,I,patient 2,NA,CD29,NA
+25,I,patient3,NA,CD29,NA
+25,I,patient 4,NA,CD29,NA
+25,I,patient 5,NA,CD29,NA
+25,I,patient  6,NA,CD29,NA
+25,I,patient 7,NA,CD29,NA
+25,I,patient 8,NA,CD29,NA
+25,I,patient 9,NA,CD29,NA
+25,I,patient 10,NA,CD29,NA
+25,I,patient 11,NA,CD29,NA
+25,I,patient 12,NA,CD29,NA
+25,I,patient 13,NA,CD29,NA
+25,I,patient 14,NA,CD29,NA
+25,I,patient 15,NA,CD29,NA
+25,I,patient 16,NA,CD29,NA
+25,I,patient 17,NA,CD29,NA
+25,I,patient 18,NA,CD29,NA
+29,I,patient 1 tx 1,NA,CD29,97.8
+29,I,patient 1 tx 2,NA,CD29,99.033
+29,I,patient 2 tx 1,NA,CD29,97.7
+29,I,patient 2 tx 2,NA,CD29,99.933
+29,I,patient 3 tx 1,NA,CD29,99.466
+29,I,patient 3 tx 2,NA,CD29,99.933
+29,I,patient 4 tx 1,NA,CD29,99.866
+29,I,patient 4 tx 2,NA,CD29,99.766
+29,I,patient 5 tx 1,NA,CD29,99.933
+29,I,patient 5 tx 2,NA,CD29,99.966
+29,I,patient 6 tx 1,NA,CD29,99.966
+29,I,patient 6 tx 2,NA,CD29,100
+29,I,patient 7 tx 1,NA,CD29,100
+29,I,patient 7 tx 2,NA,CD29,99.9
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD29,NA
+49,I,patient 1,NA,CD29,NA
+49,I,patient 2,NA,CD29,NA
+49,I,patient 3,NA,CD29,NA
+49,I,patient 4,NA,CD29,NA
+49,I,patient 5,NA,CD29,NA
+49,I,patient 6,NA,CD29,NA
+49,I,patient 7,NA,CD29,NA
+49,I,patient 8,NA,CD29,NA
+49,I,patient 9,NA,CD29,NA
+49,I,patient 10,NA,CD29,NA
+49,I,patient 11,NA,CD29,NA
+49,I,patient 12,NA,CD29,NA
+53,II,patient 1,NA,CD29,NA
+53,II,patient 2,NA,CD29,NA
+53,II,patient 3,NA,CD29,NA
+53,II,patient 4,NA,CD29,NA
+53,II,patient 5,NA,CD29,NA
+53,II,patient 6,NA,CD29,NA
+53,II,patient 7,NA,CD29,NA
+53,II,patient 8,NA,CD29,NA
+53,II,patient 9,NA,CD29,NA
+53,II,patient 10,NA,CD29,NA
+53,II,patient 11,NA,CD29,NA
+53,II,patient 12,NA,CD29,NA
+53,II,patient 13,NA,CD29,NA
+53,II,patient 14,NA,CD29,NA
+53,II,patient 15,NA,CD29,NA
+53,II,patient 16,NA,CD29,NA
+53,II,patient 17,NA,CD29,NA
+53,II,patient 18,NA,CD29,NA
+55,IIa,patient 1,NA,CD29,NA
+55,IIa,patient 2,NA,CD29,NA
+55,IIa,patient 3,NA,CD29,NA
+55,IIa,patient 4,NA,CD29,NA
+55,IIa,patient 5,NA,CD29,NA
+55,IIa,patient 6,NA,CD29,NA
+75,I,patient 1,NA,CD29,65.2
+75,I,patient 2,NA,CD29,78.3
+75,I,patient 3,NA,CD29,81.5
+75,I,patient 4,NA,CD29,79.9
+75,I,patient 5,NA,CD29,80.4
+75,I,patient 6,NA,CD29,82.2
+75,I,patient 7,NA,CD29,81.6
+75,I,NA,NA,CD29,86.7
+75,I,NA,NA,CD29,77.4
+75,I,NA,NA,CD29,78.8
+75,I,NA,NA,CD29,76.9
+75,I,NA,NA,CD29,78.9
+75,I,NA,NA,CD29,80.3
+75,I,NA,NA,CD29,79.7
+6,I,patient 1,FC,CD44,NA
+6,I,patient 2,FC,CD44,NA
+6,I,patient 3,FC,CD44,NA
+6,I,patient 4,FC,CD44,NA
+12,I/IIa,patient 1,IHC,CD44,NA
+12,I/IIa,patient 2,IHC,CD44,NA
+12,I/IIa,patient 3,IHC,CD44,NA
+12,I/IIa,patient 4,IHC,CD44,NA
+12,I/IIa,patient 5,IHC,CD44,NA
+14,I,p3 cells,FC,CD44,NA
+14,I,p3 cells,FC,CD44,NA
+14,I,p4 cells,FC,CD44,NA
+14,I,p4 cells,FC,CD44,NA
+14,I,p4 cells,FC,CD44,NA
+25,I,patient 1,NA,CD44,NA
+25,I,patient 2,NA,CD44,NA
+25,I,patient3,NA,CD44,NA
+25,I,patient 4,NA,CD44,NA
+25,I,patient 5,NA,CD44,NA
+25,I,patient  6,NA,CD44,NA
+25,I,patient 7,NA,CD44,NA
+25,I,patient 8,NA,CD44,NA
+25,I,patient 9,NA,CD44,NA
+25,I,patient 10,NA,CD44,NA
+25,I,patient 11,NA,CD44,NA
+25,I,patient 12,NA,CD44,NA
+25,I,patient 13,NA,CD44,NA
+25,I,patient 14,NA,CD44,NA
+25,I,patient 15,NA,CD44,NA
+25,I,patient 16,NA,CD44,NA
+25,I,patient 17,NA,CD44,NA
+25,I,patient 18,NA,CD44,NA
+29,I,patient 1 tx 1,NA,CD44,98.166
+29,I,patient 1 tx 2,NA,CD44,99.466
+29,I,patient 2 tx 1,NA,CD44,99.566
+29,I,patient 2 tx 2,NA,CD44,99.233
+29,I,patient 3 tx 1,NA,CD44,99.733
+29,I,patient 3 tx 2,NA,CD44,98.833
+29,I,patient 4 tx 1,NA,CD44,95.933
+29,I,patient 4 tx 2,NA,CD44,98.4
+29,I,patient 5 tx 1,NA,CD44,99.8
+29,I,patient 5 tx 2,NA,CD44,99.866
+29,I,patient 6 tx 1,NA,CD44,99.833
+29,I,patient 6 tx 2,NA,CD44,99.866
+29,I,patient 7 tx 1,NA,CD44,88.833
+29,I,patient 7 tx 2,NA,CD44,99.566
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD44,NA
+49,I,patient 1,NA,CD44,NA
+49,I,patient 2,NA,CD44,NA
+49,I,patient 3,NA,CD44,NA
+49,I,patient 4,NA,CD44,NA
+49,I,patient 5,NA,CD44,NA
+49,I,patient 6,NA,CD44,NA
+49,I,patient 7,NA,CD44,NA
+49,I,patient 8,NA,CD44,NA
+49,I,patient 9,NA,CD44,NA
+49,I,patient 10,NA,CD44,NA
+49,I,patient 11,NA,CD44,NA
+49,I,patient 12,NA,CD44,NA
+53,II,patient 1,NA,CD44,NA
+53,II,patient 2,NA,CD44,NA
+53,II,patient 3,NA,CD44,NA
+53,II,patient 4,NA,CD44,NA
+53,II,patient 5,NA,CD44,NA
+53,II,patient 6,NA,CD44,NA
+53,II,patient 7,NA,CD44,NA
+53,II,patient 8,NA,CD44,NA
+53,II,patient 9,NA,CD44,NA
+53,II,patient 10,NA,CD44,NA
+53,II,patient 11,NA,CD44,NA
+53,II,patient 12,NA,CD44,NA
+53,II,patient 13,NA,CD44,NA
+53,II,patient 14,NA,CD44,NA
+53,II,patient 15,NA,CD44,NA
+53,II,patient 16,NA,CD44,NA
+53,II,patient 17,NA,CD44,NA
+53,II,patient 18,NA,CD44,NA
+55,IIa,patient 1,NA,CD44,NA
+55,IIa,patient 2,NA,CD44,NA
+55,IIa,patient 3,NA,CD44,NA
+55,IIa,patient 4,NA,CD44,NA
+55,IIa,patient 5,NA,CD44,NA
+55,IIa,patient 6,NA,CD44,NA
+75,I,patient 1,NA,CD44,88.5
+75,I,patient 2,NA,CD44,91.2
+75,I,patient 3,NA,CD44,92.1
+75,I,patient 4,NA,CD44,90.2
+75,I,patient 5,NA,CD44,92.7
+75,I,patient 6,NA,CD44,91.4
+75,I,patient 7,NA,CD44,88.6
+75,I,NA,NA,CD44,90.1
+75,I,NA,NA,CD44,93.2
+75,I,NA,NA,CD44,88.9
+75,I,NA,NA,CD44,89.4
+75,I,NA,NA,CD44,90.6
+75,I,NA,NA,CD44,89.3
+75,I,NA,NA,CD44,88.8
+6,I,patient 1,FC,CD11b,NA
+6,I,patient 2,FC,CD11b,NA
+6,I,patient 3,FC,CD11b,NA
+6,I,patient 4,FC,CD11b,NA
+12,I/IIa,patient 1,IHC,CD11b,NA
+12,I/IIa,patient 2,IHC,CD11b,NA
+12,I/IIa,patient 3,IHC,CD11b,NA
+12,I/IIa,patient 4,IHC,CD11b,NA
+12,I/IIa,patient 5,IHC,CD11b,NA
+14,I,p3 cells,FC,CD11b,NA
+14,I,p3 cells,FC,CD11b,NA
+14,I,p4 cells,FC,CD11b,NA
+14,I,p4 cells,FC,CD11b,NA
+14,I,p4 cells,FC,CD11b,NA
+25,I,patient 1,NA,CD11b,NA
+25,I,patient 2,NA,CD11b,NA
+25,I,patient3,NA,CD11b,NA
+25,I,patient 4,NA,CD11b,NA
+25,I,patient 5,NA,CD11b,NA
+25,I,patient  6,NA,CD11b,NA
+25,I,patient 7,NA,CD11b,NA
+25,I,patient 8,NA,CD11b,NA
+25,I,patient 9,NA,CD11b,NA
+25,I,patient 10,NA,CD11b,NA
+25,I,patient 11,NA,CD11b,NA
+25,I,patient 12,NA,CD11b,NA
+25,I,patient 13,NA,CD11b,NA
+25,I,patient 14,NA,CD11b,NA
+25,I,patient 15,NA,CD11b,NA
+25,I,patient 16,NA,CD11b,NA
+25,I,patient 17,NA,CD11b,NA
+25,I,patient 18,NA,CD11b,NA
+29,I,patient 1 tx 1,NA,CD11b,NA
+29,I,patient 1 tx 2,NA,CD11b,NA
+29,I,patient 2 tx 1,NA,CD11b,NA
+29,I,patient 2 tx 2,NA,CD11b,NA
+29,I,patient 3 tx 1,NA,CD11b,NA
+29,I,patient 3 tx 2,NA,CD11b,NA
+29,I,patient 4 tx 1,NA,CD11b,NA
+29,I,patient 4 tx 2,NA,CD11b,NA
+29,I,patient 5 tx 1,NA,CD11b,NA
+29,I,patient 5 tx 2,NA,CD11b,NA
+29,I,patient 6 tx 1,NA,CD11b,NA
+29,I,patient 6 tx 2,NA,CD11b,NA
+29,I,patient 7 tx 1,NA,CD11b,NA
+29,I,patient 7 tx 2,NA,CD11b,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD11b,NA
+49,I,patient 1,NA,CD11b,NA
+49,I,patient 2,NA,CD11b,NA
+49,I,patient 3,NA,CD11b,NA
+49,I,patient 4,NA,CD11b,NA
+49,I,patient 5,NA,CD11b,NA
+49,I,patient 6,NA,CD11b,NA
+49,I,patient 7,NA,CD11b,NA
+49,I,patient 8,NA,CD11b,NA
+49,I,patient 9,NA,CD11b,NA
+49,I,patient 10,NA,CD11b,NA
+49,I,patient 11,NA,CD11b,NA
+49,I,patient 12,NA,CD11b,NA
+53,II,patient 1,NA,CD11b,NA
+53,II,patient 2,NA,CD11b,NA
+53,II,patient 3,NA,CD11b,NA
+53,II,patient 4,NA,CD11b,NA
+53,II,patient 5,NA,CD11b,NA
+53,II,patient 6,NA,CD11b,NA
+53,II,patient 7,NA,CD11b,NA
+53,II,patient 8,NA,CD11b,NA
+53,II,patient 9,NA,CD11b,NA
+53,II,patient 10,NA,CD11b,NA
+53,II,patient 11,NA,CD11b,NA
+53,II,patient 12,NA,CD11b,NA
+53,II,patient 13,NA,CD11b,NA
+53,II,patient 14,NA,CD11b,NA
+53,II,patient 15,NA,CD11b,NA
+53,II,patient 16,NA,CD11b,NA
+53,II,patient 17,NA,CD11b,NA
+53,II,patient 18,NA,CD11b,NA
+55,IIa,patient 1,NA,CD11b,NA
+55,IIa,patient 2,NA,CD11b,NA
+55,IIa,patient 3,NA,CD11b,NA
+55,IIa,patient 4,NA,CD11b,NA
+55,IIa,patient 5,NA,CD11b,NA
+55,IIa,patient 6,NA,CD11b,NA
+75,I,patient 1,NA,CD11b,NA
+75,I,patient 2,NA,CD11b,NA
+75,I,patient 3,NA,CD11b,NA
+75,I,patient 4,NA,CD11b,NA
+75,I,patient 5,NA,CD11b,NA
+75,I,patient 6,NA,CD11b,NA
+75,I,patient 7,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+75,I,NA,NA,CD11b,NA
+6,I,patient 1,FC,CD13,NA
+6,I,patient 2,FC,CD13,NA
+6,I,patient 3,FC,CD13,NA
+6,I,patient 4,FC,CD13,NA
+12,I/IIa,patient 1,IHC,CD13,NA
+12,I/IIa,patient 2,IHC,CD13,NA
+12,I/IIa,patient 3,IHC,CD13,NA
+12,I/IIa,patient 4,IHC,CD13,NA
+12,I/IIa,patient 5,IHC,CD13,NA
+14,I,p3 cells,FC,CD13,NA
+14,I,p3 cells,FC,CD13,NA
+14,I,p4 cells,FC,CD13,NA
+14,I,p4 cells,FC,CD13,NA
+14,I,p4 cells,FC,CD13,NA
+25,I,patient 1,NA,CD13,NA
+25,I,patient 2,NA,CD13,NA
+25,I,patient3,NA,CD13,NA
+25,I,patient 4,NA,CD13,NA
+25,I,patient 5,NA,CD13,NA
+25,I,patient  6,NA,CD13,NA
+25,I,patient 7,NA,CD13,NA
+25,I,patient 8,NA,CD13,NA
+25,I,patient 9,NA,CD13,NA
+25,I,patient 10,NA,CD13,NA
+25,I,patient 11,NA,CD13,NA
+25,I,patient 12,NA,CD13,NA
+25,I,patient 13,NA,CD13,NA
+25,I,patient 14,NA,CD13,NA
+25,I,patient 15,NA,CD13,NA
+25,I,patient 16,NA,CD13,NA
+25,I,patient 17,NA,CD13,NA
+25,I,patient 18,NA,CD13,NA
+29,I,patient 1 tx 1,NA,CD13,NA
+29,I,patient 1 tx 2,NA,CD13,NA
+29,I,patient 2 tx 1,NA,CD13,NA
+29,I,patient 2 tx 2,NA,CD13,NA
+29,I,patient 3 tx 1,NA,CD13,NA
+29,I,patient 3 tx 2,NA,CD13,NA
+29,I,patient 4 tx 1,NA,CD13,NA
+29,I,patient 4 tx 2,NA,CD13,NA
+29,I,patient 5 tx 1,NA,CD13,NA
+29,I,patient 5 tx 2,NA,CD13,NA
+29,I,patient 6 tx 1,NA,CD13,NA
+29,I,patient 6 tx 2,NA,CD13,NA
+29,I,patient 7 tx 1,NA,CD13,NA
+29,I,patient 7 tx 2,NA,CD13,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD13,NA
+49,I,patient 1,NA,CD13,NA
+49,I,patient 2,NA,CD13,NA
+49,I,patient 3,NA,CD13,NA
+49,I,patient 4,NA,CD13,NA
+49,I,patient 5,NA,CD13,NA
+49,I,patient 6,NA,CD13,NA
+49,I,patient 7,NA,CD13,NA
+49,I,patient 8,NA,CD13,NA
+49,I,patient 9,NA,CD13,NA
+49,I,patient 10,NA,CD13,NA
+49,I,patient 11,NA,CD13,NA
+49,I,patient 12,NA,CD13,NA
+53,II,patient 1,NA,CD13,NA
+53,II,patient 2,NA,CD13,NA
+53,II,patient 3,NA,CD13,NA
+53,II,patient 4,NA,CD13,NA
+53,II,patient 5,NA,CD13,NA
+53,II,patient 6,NA,CD13,NA
+53,II,patient 7,NA,CD13,NA
+53,II,patient 8,NA,CD13,NA
+53,II,patient 9,NA,CD13,NA
+53,II,patient 10,NA,CD13,NA
+53,II,patient 11,NA,CD13,NA
+53,II,patient 12,NA,CD13,NA
+53,II,patient 13,NA,CD13,NA
+53,II,patient 14,NA,CD13,NA
+53,II,patient 15,NA,CD13,NA
+53,II,patient 16,NA,CD13,NA
+53,II,patient 17,NA,CD13,NA
+53,II,patient 18,NA,CD13,NA
+55,IIa,patient 1,NA,CD13,NA
+55,IIa,patient 2,NA,CD13,NA
+55,IIa,patient 3,NA,CD13,NA
+55,IIa,patient 4,NA,CD13,NA
+55,IIa,patient 5,NA,CD13,NA
+55,IIa,patient 6,NA,CD13,NA
+75,I,patient 1,NA,CD13,41.8
+75,I,patient 2,NA,CD13,50.3
+75,I,patient 3,NA,CD13,47.9
+75,I,patient 4,NA,CD13,51.8
+75,I,patient 5,NA,CD13,37.2
+75,I,patient 6,NA,CD13,54.1
+75,I,patient 7,NA,CD13,53.3
+75,I,NA,NA,CD13,56.3
+75,I,NA,NA,CD13,43.6
+75,I,NA,NA,CD13,58.7
+75,I,NA,NA,CD13,60.1
+75,I,NA,NA,CD13,51.9
+75,I,NA,NA,CD13,52.8
+75,I,NA,NA,CD13,49.6
+6,I,patient 1,FC,CD14,NA
+6,I,patient 2,FC,CD14,NA
+6,I,patient 3,FC,CD14,NA
+6,I,patient 4,FC,CD14,NA
+12,I/IIa,patient 1,IHC,CD14,NA
+12,I/IIa,patient 2,IHC,CD14,NA
+12,I/IIa,patient 3,IHC,CD14,NA
+12,I/IIa,patient 4,IHC,CD14,NA
+12,I/IIa,patient 5,IHC,CD14,NA
+14,I,p3 cells,FC,CD14,0.18
+14,I,p3 cells,FC,CD14,0.18
+14,I,p4 cells,FC,CD14,0.36
+14,I,p4 cells,FC,CD14,0.36
+14,I,p4 cells,FC,CD14,0.36
+25,I,patient 1,NA,CD14,0.5
+25,I,patient 2,NA,CD14,0.5
+25,I,patient3,NA,CD14,0.9
+25,I,patient 4,NA,CD14,0.5
+25,I,patient 5,NA,CD14,1.2
+25,I,patient  6,NA,CD14,0.6
+25,I,patient 7,NA,CD14,1.2
+25,I,patient 8,NA,CD14,0.5
+25,I,patient 9,NA,CD14,0.3
+25,I,patient 10,NA,CD14,0.9
+25,I,patient 11,NA,CD14,0.4
+25,I,patient 12,NA,CD14,0.7
+25,I,patient 13,NA,CD14,0.5
+25,I,patient 14,NA,CD14,0.1
+25,I,patient 15,NA,CD14,0.65
+25,I,patient 16,NA,CD14,0.4
+25,I,patient 17,NA,CD14,0.2
+25,I,patient 18,NA,CD14,1.6
+29,I,patient 1 tx 1,NA,CD14,NA
+29,I,patient 1 tx 2,NA,CD14,NA
+29,I,patient 2 tx 1,NA,CD14,NA
+29,I,patient 2 tx 2,NA,CD14,NA
+29,I,patient 3 tx 1,NA,CD14,NA
+29,I,patient 3 tx 2,NA,CD14,NA
+29,I,patient 4 tx 1,NA,CD14,NA
+29,I,patient 4 tx 2,NA,CD14,NA
+29,I,patient 5 tx 1,NA,CD14,NA
+29,I,patient 5 tx 2,NA,CD14,NA
+29,I,patient 6 tx 1,NA,CD14,NA
+29,I,patient 6 tx 2,NA,CD14,NA
+29,I,patient 7 tx 1,NA,CD14,NA
+29,I,patient 7 tx 2,NA,CD14,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD14,NA
+49,I,patient 1,NA,CD14,NA
+49,I,patient 2,NA,CD14,NA
+49,I,patient 3,NA,CD14,NA
+49,I,patient 4,NA,CD14,NA
+49,I,patient 5,NA,CD14,NA
+49,I,patient 6,NA,CD14,NA
+49,I,patient 7,NA,CD14,NA
+49,I,patient 8,NA,CD14,NA
+49,I,patient 9,NA,CD14,NA
+49,I,patient 10,NA,CD14,NA
+49,I,patient 11,NA,CD14,NA
+49,I,patient 12,NA,CD14,NA
+53,II,patient 1,NA,CD14,NA
+53,II,patient 2,NA,CD14,NA
+53,II,patient 3,NA,CD14,NA
+53,II,patient 4,NA,CD14,NA
+53,II,patient 5,NA,CD14,NA
+53,II,patient 6,NA,CD14,NA
+53,II,patient 7,NA,CD14,NA
+53,II,patient 8,NA,CD14,NA
+53,II,patient 9,NA,CD14,NA
+53,II,patient 10,NA,CD14,NA
+53,II,patient 11,NA,CD14,NA
+53,II,patient 12,NA,CD14,NA
+53,II,patient 13,NA,CD14,NA
+53,II,patient 14,NA,CD14,NA
+53,II,patient 15,NA,CD14,NA
+53,II,patient 16,NA,CD14,NA
+53,II,patient 17,NA,CD14,NA
+53,II,patient 18,NA,CD14,NA
+55,IIa,patient 1,NA,CD14,NA
+55,IIa,patient 2,NA,CD14,NA
+55,IIa,patient 3,NA,CD14,NA
+55,IIa,patient 4,NA,CD14,NA
+55,IIa,patient 5,NA,CD14,NA
+55,IIa,patient 6,NA,CD14,NA
+75,I,patient 1,NA,CD14,NA
+75,I,patient 2,NA,CD14,NA
+75,I,patient 3,NA,CD14,NA
+75,I,patient 4,NA,CD14,NA
+75,I,patient 5,NA,CD14,NA
+75,I,patient 6,NA,CD14,NA
+75,I,patient 7,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+75,I,NA,NA,CD14,NA
+6,I,patient 1,FC,CD19,NA
+6,I,patient 2,FC,CD19,NA
+6,I,patient 3,FC,CD19,NA
+6,I,patient 4,FC,CD19,NA
+12,I/IIa,patient 1,IHC,CD19,NA
+12,I/IIa,patient 2,IHC,CD19,NA
+12,I/IIa,patient 3,IHC,CD19,NA
+12,I/IIa,patient 4,IHC,CD19,NA
+12,I/IIa,patient 5,IHC,CD19,NA
+14,I,p3 cells,FC,CD19,0.14
+14,I,p3 cells,FC,CD19,0.14
+14,I,p4 cells,FC,CD19,0.26
+14,I,p4 cells,FC,CD19,0.26
+14,I,p4 cells,FC,CD19,0.26
+25,I,patient 1,NA,CD19,NA
+25,I,patient 2,NA,CD19,NA
+25,I,patient3,NA,CD19,NA
+25,I,patient 4,NA,CD19,NA
+25,I,patient 5,NA,CD19,NA
+25,I,patient  6,NA,CD19,NA
+25,I,patient 7,NA,CD19,NA
+25,I,patient 8,NA,CD19,NA
+25,I,patient 9,NA,CD19,NA
+25,I,patient 10,NA,CD19,NA
+25,I,patient 11,NA,CD19,NA
+25,I,patient 12,NA,CD19,NA
+25,I,patient 13,NA,CD19,NA
+25,I,patient 14,NA,CD19,NA
+25,I,patient 15,NA,CD19,NA
+25,I,patient 16,NA,CD19,NA
+25,I,patient 17,NA,CD19,NA
+25,I,patient 18,NA,CD19,NA
+29,I,patient 1 tx 1,NA,CD19,NA
+29,I,patient 1 tx 2,NA,CD19,NA
+29,I,patient 2 tx 1,NA,CD19,NA
+29,I,patient 2 tx 2,NA,CD19,NA
+29,I,patient 3 tx 1,NA,CD19,NA
+29,I,patient 3 tx 2,NA,CD19,NA
+29,I,patient 4 tx 1,NA,CD19,NA
+29,I,patient 4 tx 2,NA,CD19,NA
+29,I,patient 5 tx 1,NA,CD19,NA
+29,I,patient 5 tx 2,NA,CD19,NA
+29,I,patient 6 tx 1,NA,CD19,NA
+29,I,patient 6 tx 2,NA,CD19,NA
+29,I,patient 7 tx 1,NA,CD19,NA
+29,I,patient 7 tx 2,NA,CD19,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD19,NA
+49,I,patient 1,NA,CD19,NA
+49,I,patient 2,NA,CD19,NA
+49,I,patient 3,NA,CD19,NA
+49,I,patient 4,NA,CD19,NA
+49,I,patient 5,NA,CD19,NA
+49,I,patient 6,NA,CD19,NA
+49,I,patient 7,NA,CD19,NA
+49,I,patient 8,NA,CD19,NA
+49,I,patient 9,NA,CD19,NA
+49,I,patient 10,NA,CD19,NA
+49,I,patient 11,NA,CD19,NA
+49,I,patient 12,NA,CD19,NA
+53,II,patient 1,NA,CD19,NA
+53,II,patient 2,NA,CD19,NA
+53,II,patient 3,NA,CD19,NA
+53,II,patient 4,NA,CD19,NA
+53,II,patient 5,NA,CD19,NA
+53,II,patient 6,NA,CD19,NA
+53,II,patient 7,NA,CD19,NA
+53,II,patient 8,NA,CD19,NA
+53,II,patient 9,NA,CD19,NA
+53,II,patient 10,NA,CD19,NA
+53,II,patient 11,NA,CD19,NA
+53,II,patient 12,NA,CD19,NA
+53,II,patient 13,NA,CD19,NA
+53,II,patient 14,NA,CD19,NA
+53,II,patient 15,NA,CD19,NA
+53,II,patient 16,NA,CD19,NA
+53,II,patient 17,NA,CD19,NA
+53,II,patient 18,NA,CD19,NA
+55,IIa,patient 1,NA,CD19,NA
+55,IIa,patient 2,NA,CD19,NA
+55,IIa,patient 3,NA,CD19,NA
+55,IIa,patient 4,NA,CD19,NA
+55,IIa,patient 5,NA,CD19,NA
+55,IIa,patient 6,NA,CD19,NA
+75,I,patient 1,NA,CD19,NA
+75,I,patient 2,NA,CD19,NA
+75,I,patient 3,NA,CD19,NA
+75,I,patient 4,NA,CD19,NA
+75,I,patient 5,NA,CD19,NA
+75,I,patient 6,NA,CD19,NA
+75,I,patient 7,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+75,I,NA,NA,CD19,NA
+6,I,patient 1,FC,CD31,NA
+6,I,patient 2,FC,CD31,NA
+6,I,patient 3,FC,CD31,NA
+6,I,patient 4,FC,CD31,NA
+12,I/IIa,patient 1,IHC,CD31,NA
+12,I/IIa,patient 2,IHC,CD31,NA
+12,I/IIa,patient 3,IHC,CD31,NA
+12,I/IIa,patient 4,IHC,CD31,NA
+12,I/IIa,patient 5,IHC,CD31,NA
+14,I,p3 cells,FC,CD31,NA
+14,I,p3 cells,FC,CD31,NA
+14,I,p4 cells,FC,CD31,NA
+14,I,p4 cells,FC,CD31,NA
+14,I,p4 cells,FC,CD31,NA
+25,I,patient 1,NA,CD31,NA
+25,I,patient 2,NA,CD31,NA
+25,I,patient3,NA,CD31,NA
+25,I,patient 4,NA,CD31,NA
+25,I,patient 5,NA,CD31,NA
+25,I,patient  6,NA,CD31,NA
+25,I,patient 7,NA,CD31,NA
+25,I,patient 8,NA,CD31,NA
+25,I,patient 9,NA,CD31,NA
+25,I,patient 10,NA,CD31,NA
+25,I,patient 11,NA,CD31,NA
+25,I,patient 12,NA,CD31,NA
+25,I,patient 13,NA,CD31,NA
+25,I,patient 14,NA,CD31,NA
+25,I,patient 15,NA,CD31,NA
+25,I,patient 16,NA,CD31,NA
+25,I,patient 17,NA,CD31,NA
+25,I,patient 18,NA,CD31,NA
+29,I,patient 1 tx 1,NA,CD31,NA
+29,I,patient 1 tx 2,NA,CD31,NA
+29,I,patient 2 tx 1,NA,CD31,NA
+29,I,patient 2 tx 2,NA,CD31,NA
+29,I,patient 3 tx 1,NA,CD31,NA
+29,I,patient 3 tx 2,NA,CD31,NA
+29,I,patient 4 tx 1,NA,CD31,NA
+29,I,patient 4 tx 2,NA,CD31,NA
+29,I,patient 5 tx 1,NA,CD31,NA
+29,I,patient 5 tx 2,NA,CD31,NA
+29,I,patient 6 tx 1,NA,CD31,NA
+29,I,patient 6 tx 2,NA,CD31,NA
+29,I,patient 7 tx 1,NA,CD31,NA
+29,I,patient 7 tx 2,NA,CD31,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD31,NA
+49,I,patient 1,NA,CD31,NA
+49,I,patient 2,NA,CD31,NA
+49,I,patient 3,NA,CD31,NA
+49,I,patient 4,NA,CD31,NA
+49,I,patient 5,NA,CD31,NA
+49,I,patient 6,NA,CD31,NA
+49,I,patient 7,NA,CD31,NA
+49,I,patient 8,NA,CD31,NA
+49,I,patient 9,NA,CD31,NA
+49,I,patient 10,NA,CD31,NA
+49,I,patient 11,NA,CD31,NA
+49,I,patient 12,NA,CD31,NA
+53,II,patient 1,NA,CD31,0.04
+53,II,patient 2,NA,CD31,0.03
+53,II,patient 3,NA,CD31,0.09
+53,II,patient 4,NA,CD31,0.19
+53,II,patient 5,NA,CD31,0.04
+53,II,patient 6,NA,CD31,0.17
+53,II,patient 7,NA,CD31,0.04
+53,II,patient 8,NA,CD31,0.02
+53,II,patient 9,NA,CD31,0.27
+53,II,patient 10,NA,CD31,0.07
+53,II,patient 11,NA,CD31,0.15
+53,II,patient 12,NA,CD31,0.1
+53,II,patient 13,NA,CD31,0.4
+53,II,patient 14,NA,CD31,0.2
+53,II,patient 15,NA,CD31,0.07
+53,II,patient 16,NA,CD31,0.15
+53,II,patient 17,NA,CD31,0.18
+53,II,patient 18,NA,CD31,0.33
+55,IIa,patient 1,NA,CD31,NA
+55,IIa,patient 2,NA,CD31,NA
+55,IIa,patient 3,NA,CD31,NA
+55,IIa,patient 4,NA,CD31,NA
+55,IIa,patient 5,NA,CD31,NA
+55,IIa,patient 6,NA,CD31,NA
+75,I,patient 1,NA,CD31,0.8
+75,I,patient 2,NA,CD31,0.5
+75,I,patient 3,NA,CD31,0.3
+75,I,patient 4,NA,CD31,0
+75,I,patient 5,NA,CD31,0.2
+75,I,patient 6,NA,CD31,1
+75,I,patient 7,NA,CD31,0.7
+75,I,NA,NA,CD31,0.8
+75,I,NA,NA,CD31,1.1
+75,I,NA,NA,CD31,0.8
+75,I,NA,NA,CD31,0.9
+75,I,NA,NA,CD31,0.9
+75,I,NA,NA,CD31,1
+75,I,NA,NA,CD31,0.6
+6,I,patient 1,FC,CD34,NA
+6,I,patient 2,FC,CD34,NA
+6,I,patient 3,FC,CD34,NA
+6,I,patient 4,FC,CD34,NA
+12,I/IIa,patient 1,IHC,CD34,3
+12,I/IIa,patient 2,IHC,CD34,1
+12,I/IIa,patient 3,IHC,CD34,1
+12,I/IIa,patient 4,IHC,CD34,0
+12,I/IIa,patient 5,IHC,CD34,0
+14,I,p3 cells,FC,CD34,0.2
+14,I,p3 cells,FC,CD34,0.2
+14,I,p4 cells,FC,CD34,0.28
+14,I,p4 cells,FC,CD34,0.28
+14,I,p4 cells,FC,CD34,0.28
+25,I,patient 1,NA,CD34,2.7
+25,I,patient 2,NA,CD34,1.5
+25,I,patient3,NA,CD34,1.6
+25,I,patient 4,NA,CD34,1.9
+25,I,patient 5,NA,CD34,7.2
+25,I,patient  6,NA,CD34,0.2
+25,I,patient 7,NA,CD34,0.9
+25,I,patient 8,NA,CD34,0.3
+25,I,patient 9,NA,CD34,0.03
+25,I,patient 10,NA,CD34,0.2
+25,I,patient 11,NA,CD34,5.3
+25,I,patient 12,NA,CD34,1.1
+25,I,patient 13,NA,CD34,0.2
+25,I,patient 14,NA,CD34,0.2
+25,I,patient 15,NA,CD34,3.1
+25,I,patient 16,NA,CD34,9.7
+25,I,patient 17,NA,CD34,4
+25,I,patient 18,NA,CD34,9.8
+29,I,patient 1 tx 1,NA,CD34,0.033
+29,I,patient 1 tx 2,NA,CD34,0.066
+29,I,patient 2 tx 1,NA,CD34,0.066
+29,I,patient 2 tx 2,NA,CD34,0.166
+29,I,patient 3 tx 1,NA,CD34,0.066
+29,I,patient 3 tx 2,NA,CD34,0.1
+29,I,patient 4 tx 1,NA,CD34,0.066
+29,I,patient 4 tx 2,NA,CD34,0.2
+29,I,patient 5 tx 1,NA,CD34,0.3
+29,I,patient 5 tx 2,NA,CD34,0.1
+29,I,patient 6 tx 1,NA,CD34,0.066
+29,I,patient 6 tx 2,NA,CD34,0.333
+29,I,patient 7 tx 1,NA,CD34,0.1
+29,I,patient 7 tx 2,NA,CD34,0.1
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD34,0.14
+49,I,patient 1,NA,CD34,0.5
+49,I,patient 2,NA,CD34,0.8
+49,I,patient 3,NA,CD34,1.2
+49,I,patient 4,NA,CD34,1
+49,I,patient 5,NA,CD34,0.3
+49,I,patient 6,NA,CD34,1.8
+49,I,patient 7,NA,CD34,2.1
+49,I,patient 8,NA,CD34,0.4
+49,I,patient 9,NA,CD34,1.8
+49,I,patient 10,NA,CD34,1.9
+49,I,patient 11,NA,CD34,1
+49,I,patient 12,NA,CD34,0.8
+53,II,patient 1,NA,CD34,0.07
+53,II,patient 2,NA,CD34,0.01
+53,II,patient 3,NA,CD34,0.09
+53,II,patient 4,NA,CD34,0.56
+53,II,patient 5,NA,CD34,0.02
+53,II,patient 6,NA,CD34,0.11
+53,II,patient 7,NA,CD34,0.01
+53,II,patient 8,NA,CD34,0.01
+53,II,patient 9,NA,CD34,0.21
+53,II,patient 10,NA,CD34,0.1
+53,II,patient 11,NA,CD34,0.4
+53,II,patient 12,NA,CD34,0.3
+53,II,patient 13,NA,CD34,0.11
+53,II,patient 14,NA,CD34,0.02
+53,II,patient 15,NA,CD34,0
+53,II,patient 16,NA,CD34,0.07
+53,II,patient 17,NA,CD34,0.07
+53,II,patient 18,NA,CD34,0.23
+55,IIa,patient 1,NA,CD34,NA
+55,IIa,patient 2,NA,CD34,NA
+55,IIa,patient 3,NA,CD34,NA
+55,IIa,patient 4,NA,CD34,NA
+55,IIa,patient 5,NA,CD34,NA
+55,IIa,patient 6,NA,CD34,NA
+75,I,patient 1,NA,CD34,21.2
+75,I,patient 2,NA,CD34,25.5
+75,I,patient 3,NA,CD34,31.1
+75,I,patient 4,NA,CD34,35.6
+75,I,patient 5,NA,CD34,22.2
+75,I,patient 6,NA,CD34,35.7
+75,I,patient 7,NA,CD34,27.9
+75,I,NA,NA,CD34,33.1
+75,I,NA,NA,CD34,27.9
+75,I,NA,NA,CD34,21.6
+75,I,NA,NA,CD34,26.4
+75,I,NA,NA,CD34,37.1
+75,I,NA,NA,CD34,25.4
+75,I,NA,NA,CD34,30.5
+6,I,patient 1,FC,CD45,0.02
+6,I,patient 2,FC,CD45,0.1
+6,I,patient 3,FC,CD45,0.62
+6,I,patient 4,FC,CD45,0.42
+12,I/IIa,patient 1,IHC,CD45,3
+12,I/IIa,patient 2,IHC,CD45,6
+12,I/IIa,patient 3,IHC,CD45,2.5
+12,I/IIa,patient 4,IHC,CD45,2
+12,I/IIa,patient 5,IHC,CD45,0.5
+14,I,p3 cells,FC,CD45,0.16
+14,I,p3 cells,FC,CD45,0.16
+14,I,p4 cells,FC,CD45,0.38
+14,I,p4 cells,FC,CD45,0.38
+14,I,p4 cells,FC,CD45,0.38
+25,I,patient 1,NA,CD45,0.3
+25,I,patient 2,NA,CD45,0.1
+25,I,patient3,NA,CD45,0.1
+25,I,patient 4,NA,CD45,0.03
+25,I,patient 5,NA,CD45,0.1
+25,I,patient  6,NA,CD45,0.01
+25,I,patient 7,NA,CD45,0.15
+25,I,patient 8,NA,CD45,0.1
+25,I,patient 9,NA,CD45,0.04
+25,I,patient 10,NA,CD45,0.3
+25,I,patient 11,NA,CD45,0.2
+25,I,patient 12,NA,CD45,0.1
+25,I,patient 13,NA,CD45,0.2
+25,I,patient 14,NA,CD45,0.5
+25,I,patient 15,NA,CD45,0.15
+25,I,patient 16,NA,CD45,0.1
+25,I,patient 17,NA,CD45,0.1
+25,I,patient 18,NA,CD45,0.3
+29,I,patient 1 tx 1,NA,CD45,0.066
+29,I,patient 1 tx 2,NA,CD45,0.1
+29,I,patient 2 tx 1,NA,CD45,0.3
+29,I,patient 2 tx 2,NA,CD45,0.133
+29,I,patient 3 tx 1,NA,CD45,0.066
+29,I,patient 3 tx 2,NA,CD45,0.066
+29,I,patient 4 tx 1,NA,CD45,0.066
+29,I,patient 4 tx 2,NA,CD45,1
+29,I,patient 5 tx 1,NA,CD45,0.066
+29,I,patient 5 tx 2,NA,CD45,0
+29,I,patient 6 tx 1,NA,CD45,0.066
+29,I,patient 6 tx 2,NA,CD45,0.033
+29,I,patient 7 tx 1,NA,CD45,0
+29,I,patient 7 tx 2,NA,CD45,0
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD45,0.06
+49,I,patient 1,NA,CD45,0.2
+49,I,patient 2,NA,CD45,4.8
+49,I,patient 3,NA,CD45,1.5
+49,I,patient 4,NA,CD45,7.6
+49,I,patient 5,NA,CD45,0.5
+49,I,patient 6,NA,CD45,6.5
+49,I,patient 7,NA,CD45,2.8
+49,I,patient 8,NA,CD45,0.7
+49,I,patient 9,NA,CD45,3.6
+49,I,patient 10,NA,CD45,3.1
+49,I,patient 11,NA,CD45,2.7
+49,I,patient 12,NA,CD45,5.2
+53,II,patient 1,NA,CD45,0.04
+53,II,patient 2,NA,CD45,0.03
+53,II,patient 3,NA,CD45,0.06
+53,II,patient 4,NA,CD45,0.11
+53,II,patient 5,NA,CD45,0.06
+53,II,patient 6,NA,CD45,0.13
+53,II,patient 7,NA,CD45,0
+53,II,patient 8,NA,CD45,0.02
+53,II,patient 9,NA,CD45,0.15
+53,II,patient 10,NA,CD45,0
+53,II,patient 11,NA,CD45,0.11
+53,II,patient 12,NA,CD45,0.02
+53,II,patient 13,NA,CD45,0.09
+53,II,patient 14,NA,CD45,0.02
+53,II,patient 15,NA,CD45,0.03
+53,II,patient 16,NA,CD45,0.03
+53,II,patient 17,NA,CD45,0.03
+53,II,patient 18,NA,CD45,0.23
+55,IIa,patient 1,NA,CD45,NA
+55,IIa,patient 2,NA,CD45,NA
+55,IIa,patient 3,NA,CD45,NA
+55,IIa,patient 4,NA,CD45,NA
+55,IIa,patient 5,NA,CD45,NA
+55,IIa,patient 6,NA,CD45,NA
+75,I,patient 1,NA,CD45,0.1
+75,I,patient 2,NA,CD45,0.2
+75,I,patient 3,NA,CD45,0
+75,I,patient 4,NA,CD45,0.1
+75,I,patient 5,NA,CD45,0.5
+75,I,patient 6,NA,CD45,0
+75,I,patient 7,NA,CD45,0
+75,I,NA,NA,CD45,0.2
+75,I,NA,NA,CD45,0.1
+75,I,NA,NA,CD45,0.1
+75,I,NA,NA,CD45,1
+75,I,NA,NA,CD45,0.3
+75,I,NA,NA,CD45,0.2
+75,I,NA,NA,CD45,0
+6,I,patient 1,FC,CD79a,NA
+6,I,patient 2,FC,CD79a,NA
+6,I,patient 3,FC,CD79a,NA
+6,I,patient 4,FC,CD79a,NA
+12,I/IIa,patient 1,IHC,CD79a,NA
+12,I/IIa,patient 2,IHC,CD79a,NA
+12,I/IIa,patient 3,IHC,CD79a,NA
+12,I/IIa,patient 4,IHC,CD79a,NA
+12,I/IIa,patient 5,IHC,CD79a,NA
+14,I,p3 cells,FC,CD79a,NA
+14,I,p3 cells,FC,CD79a,NA
+14,I,p4 cells,FC,CD79a,NA
+14,I,p4 cells,FC,CD79a,NA
+14,I,p4 cells,FC,CD79a,NA
+25,I,patient 1,NA,CD79a,NA
+25,I,patient 2,NA,CD79a,NA
+25,I,patient3,NA,CD79a,NA
+25,I,patient 4,NA,CD79a,NA
+25,I,patient 5,NA,CD79a,NA
+25,I,patient  6,NA,CD79a,NA
+25,I,patient 7,NA,CD79a,NA
+25,I,patient 8,NA,CD79a,NA
+25,I,patient 9,NA,CD79a,NA
+25,I,patient 10,NA,CD79a,NA
+25,I,patient 11,NA,CD79a,NA
+25,I,patient 12,NA,CD79a,NA
+25,I,patient 13,NA,CD79a,NA
+25,I,patient 14,NA,CD79a,NA
+25,I,patient 15,NA,CD79a,NA
+25,I,patient 16,NA,CD79a,NA
+25,I,patient 17,NA,CD79a,NA
+25,I,patient 18,NA,CD79a,NA
+29,I,patient 1 tx 1,NA,CD79a,NA
+29,I,patient 1 tx 2,NA,CD79a,NA
+29,I,patient 2 tx 1,NA,CD79a,NA
+29,I,patient 2 tx 2,NA,CD79a,NA
+29,I,patient 3 tx 1,NA,CD79a,NA
+29,I,patient 3 tx 2,NA,CD79a,NA
+29,I,patient 4 tx 1,NA,CD79a,NA
+29,I,patient 4 tx 2,NA,CD79a,NA
+29,I,patient 5 tx 1,NA,CD79a,NA
+29,I,patient 5 tx 2,NA,CD79a,NA
+29,I,patient 6 tx 1,NA,CD79a,NA
+29,I,patient 6 tx 2,NA,CD79a,NA
+29,I,patient 7 tx 1,NA,CD79a,NA
+29,I,patient 7 tx 2,NA,CD79a,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD79a,NA
+49,I,patient 1,NA,CD79a,NA
+49,I,patient 2,NA,CD79a,NA
+49,I,patient 3,NA,CD79a,NA
+49,I,patient 4,NA,CD79a,NA
+49,I,patient 5,NA,CD79a,NA
+49,I,patient 6,NA,CD79a,NA
+49,I,patient 7,NA,CD79a,NA
+49,I,patient 8,NA,CD79a,NA
+49,I,patient 9,NA,CD79a,NA
+49,I,patient 10,NA,CD79a,NA
+49,I,patient 11,NA,CD79a,NA
+49,I,patient 12,NA,CD79a,NA
+53,II,patient 1,NA,CD79a,NA
+53,II,patient 2,NA,CD79a,NA
+53,II,patient 3,NA,CD79a,NA
+53,II,patient 4,NA,CD79a,NA
+53,II,patient 5,NA,CD79a,NA
+53,II,patient 6,NA,CD79a,NA
+53,II,patient 7,NA,CD79a,NA
+53,II,patient 8,NA,CD79a,NA
+53,II,patient 9,NA,CD79a,NA
+53,II,patient 10,NA,CD79a,NA
+53,II,patient 11,NA,CD79a,NA
+53,II,patient 12,NA,CD79a,NA
+53,II,patient 13,NA,CD79a,NA
+53,II,patient 14,NA,CD79a,NA
+53,II,patient 15,NA,CD79a,NA
+53,II,patient 16,NA,CD79a,NA
+53,II,patient 17,NA,CD79a,NA
+53,II,patient 18,NA,CD79a,NA
+55,IIa,patient 1,NA,CD79a,NA
+55,IIa,patient 2,NA,CD79a,NA
+55,IIa,patient 3,NA,CD79a,NA
+55,IIa,patient 4,NA,CD79a,NA
+55,IIa,patient 5,NA,CD79a,NA
+55,IIa,patient 6,NA,CD79a,NA
+75,I,patient 1,NA,CD79a,NA
+75,I,patient 2,NA,CD79a,NA
+75,I,patient 3,NA,CD79a,NA
+75,I,patient 4,NA,CD79a,NA
+75,I,patient 5,NA,CD79a,NA
+75,I,patient 6,NA,CD79a,NA
+75,I,patient 7,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+75,I,NA,NA,CD79a,NA
+6,I,patient 1,FC,CD117,NA
+6,I,patient 2,FC,CD117,NA
+6,I,patient 3,FC,CD117,NA
+6,I,patient 4,FC,CD117,NA
+12,I/IIa,patient 1,IHC,CD117,NA
+12,I/IIa,patient 2,IHC,CD117,NA
+12,I/IIa,patient 3,IHC,CD117,NA
+12,I/IIa,patient 4,IHC,CD117,NA
+12,I/IIa,patient 5,IHC,CD117,NA
+14,I,p3 cells,FC,CD117,NA
+14,I,p3 cells,FC,CD117,NA
+14,I,p4 cells,FC,CD117,NA
+14,I,p4 cells,FC,CD117,NA
+14,I,p4 cells,FC,CD117,NA
+25,I,patient 1,NA,CD117,NA
+25,I,patient 2,NA,CD117,NA
+25,I,patient3,NA,CD117,NA
+25,I,patient 4,NA,CD117,NA
+25,I,patient 5,NA,CD117,NA
+25,I,patient  6,NA,CD117,NA
+25,I,patient 7,NA,CD117,NA
+25,I,patient 8,NA,CD117,NA
+25,I,patient 9,NA,CD117,NA
+25,I,patient 10,NA,CD117,NA
+25,I,patient 11,NA,CD117,NA
+25,I,patient 12,NA,CD117,NA
+25,I,patient 13,NA,CD117,NA
+25,I,patient 14,NA,CD117,NA
+25,I,patient 15,NA,CD117,NA
+25,I,patient 16,NA,CD117,NA
+25,I,patient 17,NA,CD117,NA
+25,I,patient 18,NA,CD117,NA
+29,I,patient 1 tx 1,NA,CD117,NA
+29,I,patient 1 tx 2,NA,CD117,NA
+29,I,patient 2 tx 1,NA,CD117,NA
+29,I,patient 2 tx 2,NA,CD117,NA
+29,I,patient 3 tx 1,NA,CD117,NA
+29,I,patient 3 tx 2,NA,CD117,NA
+29,I,patient 4 tx 1,NA,CD117,NA
+29,I,patient 4 tx 2,NA,CD117,NA
+29,I,patient 5 tx 1,NA,CD117,NA
+29,I,patient 5 tx 2,NA,CD117,NA
+29,I,patient 6 tx 1,NA,CD117,NA
+29,I,patient 6 tx 2,NA,CD117,NA
+29,I,patient 7 tx 1,NA,CD117,NA
+29,I,patient 7 tx 2,NA,CD117,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD117,NA
+49,I,patient 1,NA,CD117,NA
+49,I,patient 2,NA,CD117,NA
+49,I,patient 3,NA,CD117,NA
+49,I,patient 4,NA,CD117,NA
+49,I,patient 5,NA,CD117,NA
+49,I,patient 6,NA,CD117,NA
+49,I,patient 7,NA,CD117,NA
+49,I,patient 8,NA,CD117,NA
+49,I,patient 9,NA,CD117,NA
+49,I,patient 10,NA,CD117,NA
+49,I,patient 11,NA,CD117,NA
+49,I,patient 12,NA,CD117,NA
+53,II,patient 1,NA,CD117,NA
+53,II,patient 2,NA,CD117,NA
+53,II,patient 3,NA,CD117,NA
+53,II,patient 4,NA,CD117,NA
+53,II,patient 5,NA,CD117,NA
+53,II,patient 6,NA,CD117,NA
+53,II,patient 7,NA,CD117,NA
+53,II,patient 8,NA,CD117,NA
+53,II,patient 9,NA,CD117,NA
+53,II,patient 10,NA,CD117,NA
+53,II,patient 11,NA,CD117,NA
+53,II,patient 12,NA,CD117,NA
+53,II,patient 13,NA,CD117,NA
+53,II,patient 14,NA,CD117,NA
+53,II,patient 15,NA,CD117,NA
+53,II,patient 16,NA,CD117,NA
+53,II,patient 17,NA,CD117,NA
+53,II,patient 18,NA,CD117,NA
+55,IIa,patient 1,NA,CD117,NA
+55,IIa,patient 2,NA,CD117,NA
+55,IIa,patient 3,NA,CD117,NA
+55,IIa,patient 4,NA,CD117,NA
+55,IIa,patient 5,NA,CD117,NA
+55,IIa,patient 6,NA,CD117,NA
+75,I,patient 1,NA,CD117,NA
+75,I,patient 2,NA,CD117,NA
+75,I,patient 3,NA,CD117,NA
+75,I,patient 4,NA,CD117,NA
+75,I,patient 5,NA,CD117,NA
+75,I,patient 6,NA,CD117,NA
+75,I,patient 7,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+75,I,NA,NA,CD117,NA
+6,I,patient 1,FC,HLA-DR,NA
+6,I,patient 2,FC,HLA-DR,NA
+6,I,patient 3,FC,HLA-DR,NA
+6,I,patient 4,FC,HLA-DR,NA
+12,I/IIa,patient 1,IHC,HLA-DR,NA
+12,I/IIa,patient 2,IHC,HLA-DR,NA
+12,I/IIa,patient 3,IHC,HLA-DR,NA
+12,I/IIa,patient 4,IHC,HLA-DR,NA
+12,I/IIa,patient 5,IHC,HLA-DR,NA
+14,I,p3 cells,FC,HLA-DR,0.81
+14,I,p3 cells,FC,HLA-DR,0.81
+14,I,p4 cells,FC,HLA-DR,1.12
+14,I,p4 cells,FC,HLA-DR,1.12
+14,I,p4 cells,FC,HLA-DR,1.12
+25,I,patient 1,NA,HLA-DR,NA
+25,I,patient 2,NA,HLA-DR,NA
+25,I,patient3,NA,HLA-DR,NA
+25,I,patient 4,NA,HLA-DR,NA
+25,I,patient 5,NA,HLA-DR,NA
+25,I,patient  6,NA,HLA-DR,NA
+25,I,patient 7,NA,HLA-DR,NA
+25,I,patient 8,NA,HLA-DR,NA
+25,I,patient 9,NA,HLA-DR,NA
+25,I,patient 10,NA,HLA-DR,NA
+25,I,patient 11,NA,HLA-DR,NA
+25,I,patient 12,NA,HLA-DR,NA
+25,I,patient 13,NA,HLA-DR,NA
+25,I,patient 14,NA,HLA-DR,NA
+25,I,patient 15,NA,HLA-DR,NA
+25,I,patient 16,NA,HLA-DR,NA
+25,I,patient 17,NA,HLA-DR,NA
+25,I,patient 18,NA,HLA-DR,NA
+29,I,patient 1 tx 1,NA,HLA-DR,NA
+29,I,patient 1 tx 2,NA,HLA-DR,NA
+29,I,patient 2 tx 1,NA,HLA-DR,NA
+29,I,patient 2 tx 2,NA,HLA-DR,NA
+29,I,patient 3 tx 1,NA,HLA-DR,NA
+29,I,patient 3 tx 2,NA,HLA-DR,NA
+29,I,patient 4 tx 1,NA,HLA-DR,NA
+29,I,patient 4 tx 2,NA,HLA-DR,NA
+29,I,patient 5 tx 1,NA,HLA-DR,NA
+29,I,patient 5 tx 2,NA,HLA-DR,NA
+29,I,patient 6 tx 1,NA,HLA-DR,NA
+29,I,patient 6 tx 2,NA,HLA-DR,NA
+29,I,patient 7 tx 1,NA,HLA-DR,NA
+29,I,patient 7 tx 2,NA,HLA-DR,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,HLA-DR,0.18
+49,I,patient 1,NA,HLA-DR,NA
+49,I,patient 2,NA,HLA-DR,NA
+49,I,patient 3,NA,HLA-DR,NA
+49,I,patient 4,NA,HLA-DR,NA
+49,I,patient 5,NA,HLA-DR,NA
+49,I,patient 6,NA,HLA-DR,NA
+49,I,patient 7,NA,HLA-DR,NA
+49,I,patient 8,NA,HLA-DR,NA
+49,I,patient 9,NA,HLA-DR,NA
+49,I,patient 10,NA,HLA-DR,NA
+49,I,patient 11,NA,HLA-DR,NA
+49,I,patient 12,NA,HLA-DR,NA
+53,II,patient 1,NA,HLA-DR,NA
+53,II,patient 2,NA,HLA-DR,NA
+53,II,patient 3,NA,HLA-DR,NA
+53,II,patient 4,NA,HLA-DR,NA
+53,II,patient 5,NA,HLA-DR,NA
+53,II,patient 6,NA,HLA-DR,NA
+53,II,patient 7,NA,HLA-DR,NA
+53,II,patient 8,NA,HLA-DR,NA
+53,II,patient 9,NA,HLA-DR,NA
+53,II,patient 10,NA,HLA-DR,NA
+53,II,patient 11,NA,HLA-DR,NA
+53,II,patient 12,NA,HLA-DR,NA
+53,II,patient 13,NA,HLA-DR,NA
+53,II,patient 14,NA,HLA-DR,NA
+53,II,patient 15,NA,HLA-DR,NA
+53,II,patient 16,NA,HLA-DR,NA
+53,II,patient 17,NA,HLA-DR,NA
+53,II,patient 18,NA,HLA-DR,NA
+55,IIa,patient 1,NA,HLA-DR,NA
+55,IIa,patient 2,NA,HLA-DR,NA
+55,IIa,patient 3,NA,HLA-DR,NA
+55,IIa,patient 4,NA,HLA-DR,NA
+55,IIa,patient 5,NA,HLA-DR,NA
+55,IIa,patient 6,NA,HLA-DR,NA
+75,I,patient 1,NA,HLA-DR,NA
+75,I,patient 2,NA,HLA-DR,NA
+75,I,patient 3,NA,HLA-DR,NA
+75,I,patient 4,NA,HLA-DR,NA
+75,I,patient 5,NA,HLA-DR,NA
+75,I,patient 6,NA,HLA-DR,NA
+75,I,patient 7,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+75,I,NA,NA,HLA-DR,NA
+6,I,patient 1,FC,CD45+/CD105+,NA
+6,I,patient 2,FC,CD45+/CD105+,NA
+6,I,patient 3,FC,CD45+/CD105+,NA
+6,I,patient 4,FC,CD45+/CD105+,NA
+12,I/IIa,patient 1,IHC,CD45+/CD105+,NA
+12,I/IIa,patient 2,IHC,CD45+/CD105+,NA
+12,I/IIa,patient 3,IHC,CD45+/CD105+,NA
+12,I/IIa,patient 4,IHC,CD45+/CD105+,NA
+12,I/IIa,patient 5,IHC,CD45+/CD105+,NA
+14,I,p3 cells,FC,CD45+/CD105+,NA
+14,I,p3 cells,FC,CD45+/CD105+,NA
+14,I,p4 cells,FC,CD45+/CD105+,NA
+14,I,p4 cells,FC,CD45+/CD105+,NA
+14,I,p4 cells,FC,CD45+/CD105+,NA
+25,I,patient 1,NA,CD45+/CD105+,NA
+25,I,patient 2,NA,CD45+/CD105+,NA
+25,I,patient3,NA,CD45+/CD105+,NA
+25,I,patient 4,NA,CD45+/CD105+,NA
+25,I,patient 5,NA,CD45+/CD105+,NA
+25,I,patient  6,NA,CD45+/CD105+,NA
+25,I,patient 7,NA,CD45+/CD105+,NA
+25,I,patient 8,NA,CD45+/CD105+,NA
+25,I,patient 9,NA,CD45+/CD105+,NA
+25,I,patient 10,NA,CD45+/CD105+,NA
+25,I,patient 11,NA,CD45+/CD105+,NA
+25,I,patient 12,NA,CD45+/CD105+,NA
+25,I,patient 13,NA,CD45+/CD105+,NA
+25,I,patient 14,NA,CD45+/CD105+,NA
+25,I,patient 15,NA,CD45+/CD105+,NA
+25,I,patient 16,NA,CD45+/CD105+,NA
+25,I,patient 17,NA,CD45+/CD105+,NA
+25,I,patient 18,NA,CD45+/CD105+,NA
+29,I,patient 1 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 1 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 2 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 2 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 3 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 3 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 4 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 4 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 5 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 5 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 6 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 6 tx 2,NA,CD45+/CD105+,NA
+29,I,patient 7 tx 1,NA,CD45+/CD105+,NA
+29,I,patient 7 tx 2,NA,CD45+/CD105+,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD45+/CD105+,NA
+49,I,patient 1,NA,CD45+/CD105+,NA
+49,I,patient 2,NA,CD45+/CD105+,NA
+49,I,patient 3,NA,CD45+/CD105+,NA
+49,I,patient 4,NA,CD45+/CD105+,NA
+49,I,patient 5,NA,CD45+/CD105+,NA
+49,I,patient 6,NA,CD45+/CD105+,NA
+49,I,patient 7,NA,CD45+/CD105+,NA
+49,I,patient 8,NA,CD45+/CD105+,NA
+49,I,patient 9,NA,CD45+/CD105+,NA
+49,I,patient 10,NA,CD45+/CD105+,NA
+49,I,patient 11,NA,CD45+/CD105+,NA
+49,I,patient 12,NA,CD45+/CD105+,NA
+53,II,patient 1,NA,CD45+/CD105+,NA
+53,II,patient 2,NA,CD45+/CD105+,NA
+53,II,patient 3,NA,CD45+/CD105+,NA
+53,II,patient 4,NA,CD45+/CD105+,NA
+53,II,patient 5,NA,CD45+/CD105+,NA
+53,II,patient 6,NA,CD45+/CD105+,NA
+53,II,patient 7,NA,CD45+/CD105+,NA
+53,II,patient 8,NA,CD45+/CD105+,NA
+53,II,patient 9,NA,CD45+/CD105+,NA
+53,II,patient 10,NA,CD45+/CD105+,NA
+53,II,patient 11,NA,CD45+/CD105+,NA
+53,II,patient 12,NA,CD45+/CD105+,NA
+53,II,patient 13,NA,CD45+/CD105+,NA
+53,II,patient 14,NA,CD45+/CD105+,NA
+53,II,patient 15,NA,CD45+/CD105+,NA
+53,II,patient 16,NA,CD45+/CD105+,NA
+53,II,patient 17,NA,CD45+/CD105+,NA
+53,II,patient 18,NA,CD45+/CD105+,NA
+55,IIa,patient 1,NA,CD45+/CD105+,1.7
+55,IIa,patient 2,NA,CD45+/CD105+,0.5
+55,IIa,patient 3,NA,CD45+/CD105+,1.5
+55,IIa,patient 4,NA,CD45+/CD105+,1.1
+55,IIa,patient 5,NA,CD45+/CD105+,3.6
+55,IIa,patient 6,NA,CD45+/CD105+,NA
+75,I,patient 1,NA,CD45+/CD105+,NA
+75,I,patient 2,NA,CD45+/CD105+,NA
+75,I,patient 3,NA,CD45+/CD105+,NA
+75,I,patient 4,NA,CD45+/CD105+,NA
+75,I,patient 5,NA,CD45+/CD105+,NA
+75,I,patient 6,NA,CD45+/CD105+,NA
+75,I,patient 7,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+75,I,NA,NA,CD45+/CD105+,NA
+6,I,patient 1,FC,CD45-/CD105+,NA
+6,I,patient 2,FC,CD45-/CD105+,NA
+6,I,patient 3,FC,CD45-/CD105+,NA
+6,I,patient 4,FC,CD45-/CD105+,NA
+12,I/IIa,patient 1,IHC,CD45-/CD105+,NA
+12,I/IIa,patient 2,IHC,CD45-/CD105+,NA
+12,I/IIa,patient 3,IHC,CD45-/CD105+,NA
+12,I/IIa,patient 4,IHC,CD45-/CD105+,NA
+12,I/IIa,patient 5,IHC,CD45-/CD105+,NA
+14,I,p3 cells,FC,CD45-/CD105+,NA
+14,I,p3 cells,FC,CD45-/CD105+,NA
+14,I,p4 cells,FC,CD45-/CD105+,NA
+14,I,p4 cells,FC,CD45-/CD105+,NA
+14,I,p4 cells,FC,CD45-/CD105+,NA
+25,I,patient 1,NA,CD45-/CD105+,NA
+25,I,patient 2,NA,CD45-/CD105+,NA
+25,I,patient3,NA,CD45-/CD105+,NA
+25,I,patient 4,NA,CD45-/CD105+,NA
+25,I,patient 5,NA,CD45-/CD105+,NA
+25,I,patient  6,NA,CD45-/CD105+,NA
+25,I,patient 7,NA,CD45-/CD105+,NA
+25,I,patient 8,NA,CD45-/CD105+,NA
+25,I,patient 9,NA,CD45-/CD105+,NA
+25,I,patient 10,NA,CD45-/CD105+,NA
+25,I,patient 11,NA,CD45-/CD105+,NA
+25,I,patient 12,NA,CD45-/CD105+,NA
+25,I,patient 13,NA,CD45-/CD105+,NA
+25,I,patient 14,NA,CD45-/CD105+,NA
+25,I,patient 15,NA,CD45-/CD105+,NA
+25,I,patient 16,NA,CD45-/CD105+,NA
+25,I,patient 17,NA,CD45-/CD105+,NA
+25,I,patient 18,NA,CD45-/CD105+,NA
+29,I,patient 1 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 1 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 2 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 2 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 3 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 3 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 4 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 4 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 5 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 5 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 6 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 6 tx 2,NA,CD45-/CD105+,NA
+29,I,patient 7 tx 1,NA,CD45-/CD105+,NA
+29,I,patient 7 tx 2,NA,CD45-/CD105+,NA
+44,I/IIa,NA,CD105 result not reported even though stated as release criteria. Values are from product made from pooled cells from 3 donors.,CD45-/CD105+,NA
+49,I,patient 1,NA,CD45-/CD105+,NA
+49,I,patient 2,NA,CD45-/CD105+,NA
+49,I,patient 3,NA,CD45-/CD105+,NA
+49,I,patient 4,NA,CD45-/CD105+,NA
+49,I,patient 5,NA,CD45-/CD105+,NA
+49,I,patient 6,NA,CD45-/CD105+,NA
+49,I,patient 7,NA,CD45-/CD105+,NA
+49,I,patient 8,NA,CD45-/CD105+,NA
+49,I,patient 9,NA,CD45-/CD105+,NA
+49,I,patient 10,NA,CD45-/CD105+,NA
+49,I,patient 11,NA,CD45-/CD105+,NA
+49,I,patient 12,NA,CD45-/CD105+,NA
+53,II,patient 1,NA,CD45-/CD105+,NA
+53,II,patient 2,NA,CD45-/CD105+,NA
+53,II,patient 3,NA,CD45-/CD105+,NA
+53,II,patient 4,NA,CD45-/CD105+,NA
+53,II,patient 5,NA,CD45-/CD105+,NA
+53,II,patient 6,NA,CD45-/CD105+,NA
+53,II,patient 7,NA,CD45-/CD105+,NA
+53,II,patient 8,NA,CD45-/CD105+,NA
+53,II,patient 9,NA,CD45-/CD105+,NA
+53,II,patient 10,NA,CD45-/CD105+,NA
+53,II,patient 11,NA,CD45-/CD105+,NA
+53,II,patient 12,NA,CD45-/CD105+,NA
+53,II,patient 13,NA,CD45-/CD105+,NA
+53,II,patient 14,NA,CD45-/CD105+,NA
+53,II,patient 15,NA,CD45-/CD105+,NA
+53,II,patient 16,NA,CD45-/CD105+,NA
+53,II,patient 17,NA,CD45-/CD105+,NA
+53,II,patient 18,NA,CD45-/CD105+,NA
+55,IIa,patient 1,NA,CD45-/CD105+,96
+55,IIa,patient 2,NA,CD45-/CD105+,98.3
+55,IIa,patient 3,NA,CD45-/CD105+,97.3
+55,IIa,patient 4,NA,CD45-/CD105+,95.9
+55,IIa,patient 5,NA,CD45-/CD105+,92.5
+55,IIa,patient 6,NA,CD45-/CD105+,78
+75,I,patient 1,NA,CD45-/CD105+,NA
+75,I,patient 2,NA,CD45-/CD105+,NA
+75,I,patient 3,NA,CD45-/CD105+,NA
+75,I,patient 4,NA,CD45-/CD105+,NA
+75,I,patient 5,NA,CD45-/CD105+,NA
+75,I,patient 6,NA,CD45-/CD105+,NA
+75,I,patient 7,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
+75,I,NA,NA,CD45-/CD105+,NA
