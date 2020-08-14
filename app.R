@@ -17,7 +17,7 @@ file <- "data/checked_processed_aw_corrections.csv"
 display_names <- read_csv(file, n_max = 0)
 
 # make a vector of display names
-display_names <- names(display_names)
+display_names <- names(display_names) %>% stringr::str_wrap(width = 40)
 
 # import data from row 2
 dat <- read_csv(file, skip = 1) 
@@ -191,12 +191,9 @@ x_var_choice_names2 <- c("Year",
                          "Adipogenic differentiation capacity",
                          "Chondrogenic differentiation capacity",
                          "Other differentiation capacity")
-characterisation_choice_names <- c("Number of characterisation attribute
- tests performed, value reported",
-                                   "Number of characterisation attribute
- tests performed, no value reported",
-                                   "Number of characterisation attribute
- tests performed, total")
+characterisation_choice_names <- c("Number of characterisation attribute\ntests performed, value reported",
+                                   "Number of characterisation attribute\ntests performed, no value reported",
+                                   "Number of characterisation attribute\ntests performed, total")
 
 
 ############################ Tab 3 ####################################
@@ -354,7 +351,7 @@ importance of characterization for transparency and comparability of literature.
              mainPanel(
                p("The number of trials testing for an attribute and reporting values, testing without reporting values or not testing for each characterisation attribute."),
                plotlyOutput(outputId = "teststatus_prevalence", height = "500px"),
-               p("In detail for each trial. The indicates ISCT markers"),
+               p("In detail for each trial. The box indicates ISCT markers"),
                plotOutput(outputId = "teststatus_by_marker_detail", width = "700px")
              )
     ),
