@@ -524,13 +524,13 @@ server <- function(input, output) {
     }
     
     else {
-      ggplotly(fig() %>%
+      ggplotly(fig() + 
+                 coord_flip()) %>%
                  layout(legend = list(orientation = "v",
-                                      x = 1.8,
-                                      xanchor = "right",
-                                      y = 1),
-                        title = list(text = input$fillvar)) + 
-                 coord_flip()) 
+                                      x = 1,
+                                      xanchor = "left",
+                                      y = 1,
+                        title = list(text = input$fillvar))  )
       
     }
     
