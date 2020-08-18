@@ -468,7 +468,7 @@ server <- function(input, output) {
         theme(axis.text = element_text(size = 10, colour = "black"),
               axis.title = element_text(size = 10, colour = "black"),
               legend.text = element_text(size = 10, colour = "black"),
-              legend.title = element_text(size = 10, colour = "black"),
+              legend.title = element_blank(),
               panel.grid.major.x = element_blank(),
               panel.grid.minor.x = element_blank(),
               panel.grid.minor.y = element_blank()) 
@@ -478,8 +478,7 @@ server <- function(input, output) {
         ggplot(dat, aes_string(x = varnames[input$xaxisvar], 
                                fill = varnames[input$fillvar])) +
           geom_bar(size = 0)  +
-          scale_fill_manual(values = pal,
-                            name = input$fillvar) +
+          scale_fill_manual(values = pal) +
           scale_y_continuous(name = "Number of articles",
                              expand = expansion(c(0, 0.1))) +
           scale_x_discrete(expand = c(0, 0), 
@@ -488,7 +487,7 @@ server <- function(input, output) {
           theme(axis.text = element_text(size = 10, colour = "black"),
                 axis.title = element_text(size = 10, colour = "black"),
                 legend.text = element_text(size = 10, colour = "black"),
-                legend.title = element_text(size = 10, colour = "black"),
+                legend.title = element_blank(),
                 panel.grid.major.x = element_blank(),
                 panel.grid.minor.x = element_blank(),
                 panel.grid.minor.y = element_blank())
@@ -496,8 +495,7 @@ server <- function(input, output) {
         ggplot(dat, aes_string(x = varnames[input$xaxisvar],
                                fill = varnames[input$fillvar])) +
           geom_bar(size = 0, position = "fill")  +
-          scale_fill_manual(values = pal,
-                            name = input$fillvar) +
+          scale_fill_manual(values = pal) +
           scale_y_continuous(name = "Proportion of articles",
                              expand = expansion(c(0, 0.1))) +
           scale_x_discrete(expand = c(0, 0), 
@@ -506,7 +504,7 @@ server <- function(input, output) {
           theme(axis.text = element_text(size = 10, colour = "black"),
                 axis.title = element_text(size = 10, colour = "black"),
                 legend.text = element_text(size = 10, colour = "black"),
-                legend.title = element_text(size = 10, colour = "black"),
+                legend.title = element_blank(),
                 panel.grid.major.x = element_blank(),
                 panel.grid.minor.x = element_blank(),
                 panel.grid.minor.y = element_blank())
@@ -517,11 +515,22 @@ server <- function(input, output) {
   
   output$summaryplot <- renderPlotly({
     if (input$flip == "No") {
-      ggplotly(fig() ) 
+      ggplotly(fig() ) %>%
+        layout(legend = list(orientation = "v",
+                             x = 1.8,
+                             xanchor = "right",
+                             y = 1,
+                             title = list(text = input$fillvar)))
     }
     
     else {
-      ggplotly(fig() + coord_flip()) 
+      ggplotly(fig() %>%
+                 layout(legend = list(orientation = "v",
+                                      x = 1.8,
+                                      xanchor = "right",
+                                      y = 1),
+                        title = list(text = input$fillvar)) + 
+                 coord_flip()) 
       
     }
     
@@ -588,19 +597,16 @@ server <- function(input, output) {
             panel.grid.minor.y = element_blank()) 
   })
   
-  # output$marker_counts_cat <- renderPlotly({
-  #   if (input$flip2 == "No") {
-  #     ggplotly(fig2_cat(), tooltip = c("text")) 
-  #   }
-  #   
-  #   else {
-  #     ggplotly(fig2_cat(), tooltip = c("text") + coord_flip()) 
-  #     
-  #   }
-  #   
-  # })
   output$marker_counts_cat <- renderPlotly({
-    ggplotly(fig2_cat(), tooltip = c("text") + coord_flip())
+    if (input$flip2 == "No") {
+      ggplotly( fig2_cat() ) 
+    }
+    
+    else {
+      ggplotly( fig2_cat() + coord_flip()) 
+      
+    }
+    
   })
   
   # number of characterisations 

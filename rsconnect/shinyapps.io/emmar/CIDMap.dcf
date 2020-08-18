@@ -1,0 +1,12 @@
+name: CIDMap
+title: CIDMap
+username:
+account: emmar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2663592
+bundleId: 3506710
+url: https://emmar.shinyapps.io/CIDMap/
+when: 1597243972.79786
+asMultiple: FALSE
+asStatic: FALSE
