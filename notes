@@ -1,0 +1,30 @@
+Also attached an updated fig 4 (there was a miscategorisation of phase (broad) for ref 24)
+
+prefer not to capitalise mesenchymal stromal cells in the title.
+done
+
+the title of the paper should have more prominence
+done
+
+on tab 1, with "Differentiation" as the additional fill variable - the word "Differentiation" gets cut off in the legend
+
+on tab 2, the test of association text at the bottom always appears as "classs" 
+Done - The variable name is programmatic and pluralisation is inconsistent so wording changed to from "variablenames" to "variablename levels" 
+
+on tab 2, displays with the categorical variable "indication class" don't display well: x-axis is overcrowded but there's no flip axes option on this tab
+
+
+tab 3: text above the second figure has "box" missing from "...The indicates ISCT markers"
+Done
+
+tab 4: should we add a note above the non-ISCT plot stating something like "these non-ISCT markers were reported by individual values;  absence of a marker here indicates no individual values were reported in any paper"
+ - I don't follow how this applies only to the non-ISCT markers.
+
+tab 5: the column headers for "Stem or Stromal" and "Donor Age" have capitals other than for the first word - to keep them consistent with the others can we lose the S and the A please?
+Done
+
+tab 5: "Other differentiation capacity" needs to be changed to "Other functionality assay" - don't need the word "type"
+Done
+
+I assume that changes made to the headers in the full data set (tab 5)will carry through to the other tabs?
+Yes :)

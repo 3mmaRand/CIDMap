@@ -142,15 +142,15 @@ x_var_choice_names <- c("Year",
                         "Indication class",
                         "Route of administration",
                         "Source of MSC",
-                        "Stem or Stromal cell",
+                        "Stem or stromal cell",
                         "Allogeneic or autologous",
                         "Donor sex",
-                        "Donor Age",
+                        "Donor age",
                         "Stringency of characterisation",
                         "Osteogenic differentiation capacity",
                         "Adipogenic differentiation capacity",
                         "Chondrogenic differentiation capacity",
-                        "Other differentiation capacity",
+                        "Other functionality assay",
                         "Co-occurrence of differentiation capacity",
                         "Differentiation")
 fill_var_choice_names <- c("None",
@@ -159,15 +159,15 @@ fill_var_choice_names <- c("None",
                            "ISCT compliance claimed",
                            "ISCT compliance demonstrated",
                            "Source of MSC",
-                           "Stem or Stromal cell",
+                           "Stem or stromal cell",
                            "Allogeneic or autologous",
                            "Donor sex",
-                           "Donor Age",
+                           "Donor age",
                            "Stringency of characterisation",
                            "Osteogenic differentiation capacity",
                            "Adipogenic differentiation capacity",
                            "Chondrogenic differentiation capacity",
-                           "Other differentiation capacity",
+                           "Other functionality assay",
                            "Differentiation")
 
 
@@ -183,14 +183,14 @@ x_var_choice_names2 <- c("Year",
                          "ISCT compliance demonstrated",
                          "Indication class",
                          "Source of MSC",
-                         "Stem or Stromal cell",
+                         "Stem or stromal cell",
                          "Allogeneic or autologous",
                          "Donor sex",
-                         "Donor Age",
+                         "Donor age",
                          "Osteogenic differentiation capacity",
                          "Adipogenic differentiation capacity",
                          "Chondrogenic differentiation capacity",
-                         "Other differentiation capacity")
+                         "Other functionality assay")
 characterisation_choice_names <- c("Number of characterisation attribute\ntests performed, value reported",
                                    "Number of characterisation attribute\ntests performed, no value reported",
                                    "Number of characterisation attribute\ntests performed, total")
@@ -256,7 +256,8 @@ ui <- fluidPage(
   # which can be "" and additional input specific inputs
   fluidRow(column(3,
                   img(src = "hex-CIDMap.png", width = "100%")),
-           column(6, h1("A shiny app to explore the characterisation of Mesenchymal Stromal Cells in clinical trial reports")),
+           column(6, h1("Clinical trial identifiers for MSCs"),
+                  h3("A shiny app to explore the characterisation of mesenchymal stromal cells in clinical trial reports")),
            column(3,
                   h2("Genever Lab"),
                   p("Department of Biology"),
@@ -267,8 +268,8 @@ ui <- fluidPage(
   br(),
   p("Prepared by",
     a("Emma Rand", href = "mailto:emma.rand@york.ac.uk"),
-    "in support of:", 
-    a("Wilson, A.J.,", href = "mailto:ajw638@york.ac.uk"),
+    "in support of:"), 
+  h3(a("Wilson, A.J.,", href = "mailto:ajw638@york.ac.uk"),
     "Rand, E., Webster, A.J. & Genever, P.G. (2020)", em( "Characterization of mesenchymal stromal cells in clinical trial reports: analysis of published descriptors."),
     "Manuscript in preparation"),
   p(strong("Abstract:"),"Mesenchymal stem or stromal cells (MSCs) are the most widely used cell therapy to
@@ -333,14 +334,18 @@ importance of characterization for transparency and comparability of literature.
                             selectInput(inputId = 'xaxisvar_cat', 
                                         label = 'Number of characterisations for each category of:', 
                                         choices = x_var_choice_names2,
-                                        selected = x_var_choice_names2[1])
+                                        selected = x_var_choice_names2[1]),
+                            selectInput(inputId = 'flip2',
+                                        label = 'Flip the axes?',
+                                        choices = c("No", "Yes"),
+                                        selected = "No")
                             
                ),
                mainPanel(
                  p("Each point represents a publication - hover over the point for the publication id number. The extent of characterisation is given by the number of tests done without values being reported, with values being reported, or the sum of these (total)."),
                  h4("Boxplots for categorical variable"),
                  p("A test for a difference in the extent of characterisations between different levels of the categorical variable is given below the plot."), 
-                 plotlyOutput(outputId = "marker_counts_cat", height = "300px"),
+                 plotlyOutput(outputId = "marker_counts_cat", height = "400px"),
                  br(),
                  textOutput(outputId = "kwtest"),
                )
@@ -512,11 +517,12 @@ server <- function(input, output) {
   
   output$summaryplot <- renderPlotly({
     if (input$flip == "No") {
-      ggplotly(fig() )
+      ggplotly(fig() ) 
     }
     
     else {
-      ggplotly(fig() + coord_flip())
+      ggplotly(fig() + coord_flip()) 
+      
     }
     
   })
@@ -582,8 +588,19 @@ server <- function(input, output) {
             panel.grid.minor.y = element_blank()) 
   })
   
+  # output$marker_counts_cat <- renderPlotly({
+  #   if (input$flip2 == "No") {
+  #     ggplotly(fig2_cat(), tooltip = c("text")) 
+  #   }
+  #   
+  #   else {
+  #     ggplotly(fig2_cat(), tooltip = c("text") + coord_flip()) 
+  #     
+  #   }
+  #   
+  # })
   output$marker_counts_cat <- renderPlotly({
-    ggplotly(fig2_cat(), tooltip = c("text"))
+    ggplotly(fig2_cat(), tooltip = c("text") + coord_flip())
   })
   
   # number of characterisations 
@@ -598,7 +615,7 @@ server <- function(input, output) {
       print(paste0("There is no significant difference in the median '", 
                    input$characterisation, 
                    "' between '",
-                   input$xaxisvar_cat, "s'.")) }
+                   input$xaxisvar_cat, "' levels.")) }
     
     else {
       print(paste0("There is a significant difference in the median '", 
