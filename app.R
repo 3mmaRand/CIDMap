@@ -266,12 +266,15 @@ ui <- fluidPage(
                   p(a("https://www.geneverlab.info/", href = "https://www.geneverlab.info/")),
            )),
   br(),
+  tags$a(
+    href = "https://doi.org/10.5281/zenodo.4012398", 
+    tags$img(src = "https://zenodo.org/badge/DOI/10.5281/zenodo.4012398.svg", alt="DOI")),
   p("Prepared by",
     a("Emma Rand", href = "mailto:emma.rand@york.ac.uk"),
     "in support of:"), 
   h3(a("Wilson, A.J.,", href = "mailto:ajw638@york.ac.uk"),
     "Rand, E., Webster, A.J. & Genever, P.G. (2020)", em( "Characterization of mesenchymal stromal cells in clinical trial reports: analysis of published descriptors."),
-    "Manuscript in preparation"),
+    "Manuscript submitted"),
   p(strong("Abstract:"),"Mesenchymal stem or stromal cells (MSCs) are the most widely used cell therapy to
 date. They are heterogeneous, with variations in growth potential, differentiation capacity and
 protein expression profile depending on tissue source and production process. Nomenclature and
