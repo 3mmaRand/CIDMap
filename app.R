@@ -363,12 +363,14 @@ importance of characterization for transparency and comparability of literature.
      ## TAB 4
     tabPanel(HTML("Reported percent cells<br/>expressing attribute"),
              mainPanel(
+               br(),
                p("Each point represents a publication - hover over the point for the publication id number."), 
-               p("No error bars - the publication reported average values for all cell lots used in the trial."),
-               p("Error bars - either the standard error on the average values for all cell lots used in the trial reported by the publication or the standard error calculated from individual values reported per cell lot."),
-               p("ISCT markers"),
+               p("Where there are no error bars - the publication reported average values for all cell lots used in the trial."),
+               p("Where error bars are included - either the standard error on the average values for all cell lots used in the trial reported by the publication or the standard error calculated from individual values reported per cell lot."),
+               h3("ISCT markers"),
                plotlyOutput(outputId = "cd_isct", height = "400px"),
-               p("Other markers"),
+               h3("Other markers"),
+               p("The following markers were not reported in any paper: CD133, CD146, CD271, STRO-1, MSCA-1, SSEA-4"),
                plotlyOutput(outputId = "cd_other", height = "400px")
              )
     ),
