@@ -3,6 +3,7 @@
 
 
 <img src="www/hex-CIDMap.png" width="150" alt="hex-logo"/> 
+
 ## Clinical trial identifiers for MSCs (CIDMap): A shiny app to explore the characterisation of mesenchymal stromal cells in clinical trial reports
 
 Prepared to support:
