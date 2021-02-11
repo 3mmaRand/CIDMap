@@ -268,30 +268,18 @@ ui <- fluidPage(
   br(),
   tags$a(
     href = "https://doi.org/10.5281/zenodo.4012398", 
-    tags$img(src = "https://zenodo.org/badge/DOI/10.5281/zenodo.4012398.svg", alt="DOI")),
+    tags$img(src = "https://zenodo.org/badge/DOI/10.5281/zenodo.4012398.svg", alt = "DOI")),
   p("Prepared by",
     a("Emma Rand", href = "mailto:emma.rand@york.ac.uk"),
     "in support of:"), 
   h3(a("Wilson, A.J.,", href = "mailto:ajw638@york.ac.uk"),
-    "Rand, E., Webster, A.J. & Genever, P.G. (2020)", em( "Characterization of mesenchymal stromal cells in clinical trial reports: analysis of published descriptors."),
+    "Rand, E., Webster, A.J. & Genever, P.G. (2021)", em( "Characterization of mesenchymal stromal cells in clinical trial reports: analysis of published descriptors."),
     "Manuscript submitted"),
-  p(strong("Abstract:"),"Mesenchymal stem or stromal cells (MSCs) are the most widely used cell therapy to
-date. They are heterogeneous, with variations in growth potential, differentiation capacity and
-protein expression profile depending on tissue source and production process. Nomenclature and
-defining characteristics have been debated for almost 20 years, yet the generic term “MSC” is
-used to cover a wide range of cellular phenotypes. Against a documented lack of definition of
-cellular populations used in clinical trials, our study evaluated the extent of characterization of
-the cellular population or study drug. A literature search of clinical trials involving mesenchymal
-stem/stromal cells was refined to 84 papers upon application of pre-defined inclusion/exclusion
-criteria. Thirty-two studies (38.1%) include no characterization data whatsoever. Forty-one
-(48.8%) reported average values per marker for all cell lots used in the trial, and only eleven
-(13.1%) studies included individual values per cell lot. Viability was reported in 57% of studies.
-Differentiation was discussed: osteogenesis (29% of papers) adipogenesis (27%) and
-chondrogenesis (20%); and other functional assays arose in 6 papers (7%). Extent of
-characterization was not related to clinical phase of development. Assessment of functionality
-was very limited and did not always relate to likely mechanism of action. We discuss the
-potential implications of these findings for the use of MSCs in regenerative medicine, and the
-importance of characterization for transparency and comparability of literature."),
+  h3("Abstract"),
+  p(strong("Background:"),"Mesenchymal stem or stromal cells are the most widely used cell therapy to date. They are heterogeneous, with variations in growth potential, differentiation capacity and protein expression profile depending on tissue source and production process. Nomenclature and defining characteristics have been debated for almost 20 years, yet the generic term “MSC” is used to cover a wide range of cellular phenotypes. Against a documented lack of definition of cellular populations used in clinical trials, our study evaluated the extent of characterization of the cellular population or study drug."),
+  p(strong("Methods:"),"A literature search of clinical trials involving mesenchymal stem/stromal cells was refined to 84 papers upon application of pre-defined inclusion/exclusion criteria. Data were extracted covering background trial information including location, phase, indication, tissue source, and details of clinical cell population characterisation (expression of surface markers, viability, differentiation assays and potency/functionality assays). Descriptive statistics were applied, and tests of association between groups were explored using Fisher's Exact Test for Count Data with simulated p-value."),
+  p(strong("Results:"),"Twenty-eight studies (33.3%) include no characterization data.  Forty-five (53.6%) reported average values per marker for all cell lots used in the trial, and 11 (13.1%) studies included individual values per cell lot. Viability was reported in 57% of studies. Differentiation was discussed: osteogenesis (29% of papers) adipogenesis (27%) and chondrogenesis (20%); and other functional assays arose in 7 papers (8%). Extent of characterization was not related to clinical phase of development. Assessment of functionality was very limited and did not always relate to likely mechanism of action."),
+  p(strong("Conclusions:"),"Extent of characterization was poor and variable. Our findings concur with those in other fields including bone marrow aspirate and platelet-rich plasma therapy. We discuss the potential implications of these findings for the use of mesenchymal stem or stromal cells in regenerative medicine, and the importance of characterization for transparency and comparability of literature."),
   hr(), 
   h3("Visualisation tools"),
   tabsetPanel(
@@ -397,7 +385,7 @@ importance of characterization for transparency and comparability of literature.
     tabPanel(HTML("Figures from<br/>the paper"),
              fluidRow(
                column(width = 6,
-                      "Fig. 1. Literature Search Strategy and Results. (A) The schematic shows search terms, refinements and exclusions used. Numbers refer to the total number of papers remaining at each stage. (B) Reported characteristics for MSCs in clinical research studies: data elements captured for this analysis. Basic information on the trial included clinical phase, indication, route of administration and mechanism(s) of action. Specifics of the cell source included donor details, tissue source and usage (allogeneic/autologous) and the descriptor used by the study: stem/stromal cells or other nomenclature. Aspects of characterization reported in the study were captured, focusing on assessment of viability, phenotypic profile, differentiation capacity and potency evaluations. Reference to ISCT minimal criteria for identification of MSC was also recorded."
+                      "Figure 1. Literature search strategy and results. (A) The schematic shows search terms, refinements and exclusions used. Numbers refer to the total number of papers remaining at each stage. (B) Reported characteristics for MSCs in clinical research studies: data elements captured for this analysis. Basic information on the trial included clinical phase, indication, route of administration and mechanism(s) of action. Specifics of the cell source included donor details, tissue source and usage (allogeneic/autologous) and the descriptor used by the study: stem/stromal cells or other nomenclature. Aspects of characterization reported in the study were captured, focusing on assessment of viability, phenotypic profile, differentiation capacity and potency evaluations. Reference to ISCT minimal criteria for identification of MSC was also recorded."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_1.svg", height = "300px", alt = "Fig. 1. Literature Search Strategy and Results"), href = "paper_figs/fig_1.svg")
@@ -406,7 +394,7 @@ importance of characterization for transparency and comparability of literature.
              hr(),
              fluidRow(
                column(width = 6,
-                      "Fig. 2. Background Trial Information. (A) Origin of clinical research publications, ranked by number from each country represented in the analysis. (B) Clinical trials reported in literature by clinical phase, ranked by most commonly represented phase of clinical study. (C) Route of administration, ranked by most commonly used in the studies. (D) Indications addressed by the clinical studies, ranked by most commonly represented indication."
+                      "Figure 2. Background trial information. (A) Origin of clinical research publications, ranked by number from each country represented in the analysis. (B) Clinical trials reported in literature by clinical phase, ranked by most commonly represented phase of clinical study. (C) Route of administration, ranked by most commonly used in the studies. (D) Indications addressed by the clinical studies, ranked by most commonly represented indication."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_2_black.svg", height = "300px", alt = "Fig. 2. Background Trial Information"), href = "paper_figs/fig_2_black.svg")
@@ -415,7 +403,7 @@ importance of characterization for transparency and comparability of literature.
              hr(),
              fluidRow(
                column(width = 6,
-                      "Fig. 3. Background information on cells used in clinical trials. (A) Sources of tissue from which MSCs were derived. (B) Reported use of autologous and allogeneic MSCs (C) Nomenclature used to describe the cells used in the clinical trials."
+                      "Figure 3.  Background information on cells used in clinical trials. (A) Sources of tissue from which MSCs were derived. (B) Reported use of autologous and allogeneic MSCs (C) Nomenclature used to describe the cells used in the clinical trials."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_3_black.svg", height = "300px", alt = "Fig. 3. Background information on cells used in clinical trials"), href = "paper_figs/fig_3_black.svg")
@@ -424,7 +412,7 @@ importance of characterization for transparency and comparability of literature.
              hr(),
              fluidRow(
                column(width = 6,
-                      "Fig. 4. Extent and stringency of characterization. (A) Number of articles reporting each category of characterization. (B) Stringency of characterization reported at each clinical phase of development (coloured as in A). (C)  Number of phenotypic markers, and viability, evaluated in articles that reported values/averages."
+                      "Figure 4. Extent and stringency of characterization. (A) Number of articles reporting each category of characterization. (B) Stringency of characterization reported at each clinical phase of development (coloured as in A). (C)  Number of phenotypic markers, and viability, evaluated in articles that reported values/averages."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_4.svg", alt = "Fig. 4. Extent and stringency of characterization"), href = "paper_figs/fig_4.svg")
@@ -433,7 +421,7 @@ importance of characterization for transparency and comparability of literature.
              hr(),
              fluidRow(
                column(width = 6,
-                      "Fig.5. Phenotypic characterization and viability. The minimal criteria recommended by ISCT for identification of MSC are shown between the black bars on the y-axis. (A) Analysis of individual markers reported in the clinical data set, showing whether an attribute was performed with results reported, whether it was performed but no results stated, or not mentioned in the study report. (B) Number of studies that addressed each attribute, defined by extent of reporting for each marker. Required expression or absence of a marker according to the ISCT recommendation is indicated on the y-axis."
+                      "Figure 5. Phenotypic characterization and viability. The minimal criteria recommended by ISCT for identification of MSC are shown between the black bars on the y-axis. (A) Analysis of individual markers reported in the clinical data set, showing whether an attribute was performed with results reported, whether it was performed but no results stated, or not mentioned in the study report. (B) Number of studies that addressed each attribute, defined by extent of reporting for each marker. Required expression or absence of a marker according to the ISCT recommendation is indicated on the y-axis."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_5.svg", alt = "Fig.5. Phenotypic characterization and viability"), href = "paper_figs/fig_5.svg")
@@ -442,7 +430,7 @@ importance of characterization for transparency and comparability of literature.
              hr(),
              fluidRow(
                column(width = 6,
-                      "Fig. 6. Differentiation and other functionality assessments. (A) Frequency of functionality assessments. (B) Nomenclature (stem/stromal) in relation to potential mechanism of actions relevant to each study indication. (C) Evaluation of MSC differentiation capacity (multi-potentiality) in relation to the mechanism of action anticipated for each study."
+                      "Figure 6. Differentiation and other functionality assessments. (A) Frequency of functionality assessments. (B) Nomenclature (stem/stromal) in relation to potential mechanism of actions relevant to each study indication. (C) Evaluation of MSC differentiation capacity (multi-potentiality) in relation to the mechanism of action anticipated for each study."
                ),
                column(width = 6,
                       a(img(src = "paper_figs/fig_6.svg", alt = "Fig. 6. Differentiation and other functionality assessments"), href = "paper_figs/fig_6.svg")
