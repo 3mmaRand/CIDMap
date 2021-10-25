@@ -14,5 +14,7 @@ Wilson, A. J., Rand, E., Webster, A. J., & Genever, P. G. (2021). Characterisati
 
 ## [Launch app](https://shiny.york.ac.uk/er13/CIDMap/)
 
+## Please cite as
 
+Rand, Emma, Wilson, Alison, & Genener, Paul G. (2020). Clinical trial identifiers for MSCs (CIDMap): A shiny app to explore the characterisation of mesenchymal stromal cells in clinical trial reports (v1.0). Zenodo. https://doi.org/10.5281/zenodo.4012398
 
